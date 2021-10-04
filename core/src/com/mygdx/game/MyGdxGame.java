@@ -4,14 +4,15 @@ import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.GL20;
-import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.BitmapFont;
-import com.badlogic.gdx.graphics.g2d.TextureRegion;
 import com.badlogic.gdx.graphics.g2d.freetype.FreeTypeFontGenerator;
 import com.badlogic.gdx.scenes.scene2d.Stage;
-import com.badlogic.gdx.scenes.scene2d.ui.Image;
 import com.badlogic.gdx.scenes.scene2d.ui.Label;
 import com.badlogic.gdx.utils.viewport.ScreenViewport;
+
+import org.apache.commons.io.FileUtils;
+
+import java.io.IOException;
 
 public class MyGdxGame extends ApplicationAdapter {
 	Stage stage;
@@ -33,14 +34,15 @@ public class MyGdxGame extends ApplicationAdapter {
 		parameter_jp.shadowOffsetX = 3;
 		parameter_jp.shadowOffsetY = 3;
 		parameter_jp.shadowColor = new Color(0, 0.5f, 0, 0.75f);
-		parameter_jp.characters = "あ";
+//		parameter_jp.characters = "日本語　にほんご";
+		parameter_jp.characters = Gdx.files.internal("text2include.txt").readString();
 		BitmapFont font25 = generator_jp.generateFont(parameter_jp); // font size 24 pixels
 		generator_jp.dispose();
 
 		Label.LabelStyle labelStyle_jp = new Label.LabelStyle();
 		labelStyle_jp.font = font25;
 
-		Label label3 = new Label("あ",labelStyle_jp);
+		Label label3 = new Label("日本語　にほんご",labelStyle_jp);
 		label3.setSize((float) Gdx.graphics.getWidth() / Help_Guides * 5, row_height);
 		label3.setPosition(col_width*2,Gdx.graphics.getHeight()-row_height*4);
 		stage.addActor(label3);
