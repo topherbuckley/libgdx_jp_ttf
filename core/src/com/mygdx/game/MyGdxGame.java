@@ -10,10 +10,6 @@ import com.badlogic.gdx.scenes.scene2d.Stage;
 import com.badlogic.gdx.scenes.scene2d.ui.Label;
 import com.badlogic.gdx.utils.viewport.ScreenViewport;
 
-import org.apache.commons.io.FileUtils;
-
-import java.io.IOException;
-
 public class MyGdxGame extends ApplicationAdapter {
 	Stage stage;
 	
@@ -24,7 +20,6 @@ public class MyGdxGame extends ApplicationAdapter {
 		int row_height = Gdx.graphics.getWidth() / 12;
 		int col_width = Gdx.graphics.getWidth() / 12;
 
-//		FreeTypeFontGenerator generator_jp = new FreeTypeFontGenerator(Gdx.files.internal("NotoSansJP-Black.ttf"));
 		FreeTypeFontGenerator generator_jp = new FreeTypeFontGenerator(Gdx.files.internal("jp_subset.ttf"));
 
 		FreeTypeFontGenerator.FreeTypeFontParameter parameter_jp = new FreeTypeFontGenerator.FreeTypeFontParameter();
@@ -34,15 +29,18 @@ public class MyGdxGame extends ApplicationAdapter {
 		parameter_jp.shadowOffsetX = 3;
 		parameter_jp.shadowOffsetY = 3;
 		parameter_jp.shadowColor = new Color(0, 0.5f, 0, 0.75f);
-//		parameter_jp.characters = "日本語　にほんご";
-		parameter_jp.characters = Gdx.files.internal("text2include.txt").readString();
-		BitmapFont font25 = generator_jp.generateFont(parameter_jp); // font size 24 pixels
+		String allChars = LanguagesManager.getLanguageChars("jp");
+		parameter_jp.characters = allChars;
+		BitmapFont font25 = generator_jp.generateFont(parameter_jp);
 		generator_jp.dispose();
 
 		Label.LabelStyle labelStyle_jp = new Label.LabelStyle();
 		labelStyle_jp.font = font25;
 
-		Label label3 = new Label("日本語　にほんご",labelStyle_jp);
+		assert allChars != null;
+		String firstFewChars = allChars.substring(0, 25);
+
+		Label label3 = new Label(firstFewChars,labelStyle_jp);
 		label3.setSize((float) Gdx.graphics.getWidth() / Help_Guides * 5, row_height);
 		label3.setPosition(col_width*2,Gdx.graphics.getHeight()-row_height*4);
 		stage.addActor(label3);
