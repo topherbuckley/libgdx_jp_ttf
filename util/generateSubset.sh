@@ -1,5 +1,6 @@
 #!/bin/bash
 
+sudo apt install xmlstarlet
 pip install fonttools
 assetPath='../android/assets/'
 xmlstarlet sel -t -v "languages/language/string/@value" ${assetPath}languages.xml > text2include.txt
