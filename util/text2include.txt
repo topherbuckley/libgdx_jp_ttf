@@ -1,0 +1,4059 @@
+
+Antiyoy Online is a simple online game. The rules are almost identical to offline version, though diplomacy is completely different. Also, this game was inspired by Slay by Sean O'Connor.# #E-mail: yiotro93@gmail.com #Reddit: /r/yiotro_games #Made by yiotro
+Voila! It's a secret screen.
+The game uses google username as your nickname and also google login ID to identify you.
+Do you agree?
+I agree
+Privacy policy
+About game
+Skirmish
+Training
+Load
+Editor
+User levels
+Replays
+Quick match
+Content
+Campaign
+Start
+Level size
+tiny
+small
+normal
+big
+Random
+Players
+Player
+human
+AI
+Classic rules
+Diplomacy
+Large
+Easy
+Average
+Hard
+Expert
+Balancer
+Searching for match
+Server is silent
+Kicked
+Reason
+Update
+Your turn
+AI
+Spectate
+Restarting server in [time]. # #Usually it means that new update is available.
+Server was shut down
+Authorization...
+Guest
+Failed to login
+Choose nickname
+Are you sure that you want to be [name]? #You will be able to change your nickname later.
+Creating account
+Sign out
+Successfully signed out. Next time you will be able to sign in differently.
+Quit
+Time
+Ping
+Double login
+Moderator
+Admin
+Usual player
+Return to match
+Return to match
+Current match will be restored after restart.
+If the update is not available on Google Play, you can download it directly from Google Drive.
+Searching for rivals
+Match cancelled
+Rivals found
+Offline mode enabled
+Check renaming
+Renaming
+New nickname
+Rename to
+Rename request sent
+Recent match finished
+Ratings
+Moderator panel
+Current online
+Archive
+Fresh levels
+Unverified
+Check level
+Instruction
+Players can submit their levels to the server, but the quality of these levels may vary. In addition, levels can violate the rules of the app store, which can lead to a ban of the game. Moderators help avoid such problems.# #The level must be rejected in such cases:#- The name of the level violates rules of the app store.#- There is something obviously negative in the level itself.#- The level is related to political events that took place less than 50 years ago.#- Obvious trash done in zero seconds with the left toe of the right foot.
+Requesting user level
+Creation time
+Decline '[levelName]'?
+Verify
+One level per day
+Loading user level
+User level completed
+Not completed
+Level rated
+Don't like
+Really don't like the level?
+Report
+Reports
+Check report
+Report sent
+Delete user level?
+You are now a moderator
+Please beat the level to send it
+Match
+Match parameters
+Without diplomacy
+With diplomacy
+Normal rules
+Preparation
+Starting in
+Match starting...
+Custom match
+Turn duration
+Password
+Creating match
+Matches
+Empty
+Joining match
+Kick
+Custom map
+Exit match
+Undo
+Skipped two turns
+Turn was ended automatically
+Match has been restored, so the AI will delay moves for some time so that the players have time to return.
+Some parameters will be overwritten by the parameters of the chosen map
+Please finish current match
+Connecting to server...
+Connection established
+Checking protocol...
+Protocol is valid
+Server is updating
+Client version is out of date
+Connection to server is lost, the game will try to reconnect
+Offline
+Exchange
+Exchange
+Current exchange rate
+Not enough coins
+Purchased
+Activated
+Buy
+Customization
+Fish
+Phrases
+Buy [item] for [price]?
+Hi
+Goodbye
+Thanks
+Check out my win rate
+Check out my play time
+My win rate
+My play time
+Funny ;)
+This battle will be epic!
+Well played
+Good luck
+Is this a bug?
+Let's build a farm to get even higher income.
+Good morning my friend
+Let's pretend it didn't happen
+Great weather outside
+The important thing is not to win but to take part
+Happy new year!
+I came, I saw, I lost
+Victory will be mine
+Tired of waiting
+There is no player better than me
+There is no player better than [nickname]
+Check my ELP
+Check my rank
+My ELP
+I am
+Everything was calculated to the smallest detail
+I know ;)
+Everyone start somewhere
+Thanks for the game
+Not so fast
+Skins
+AWW 2.0
+Jannes Peters
+Matveismi art
+Katuri
+ShroomArts
+h
+m
+s
+Friends
+Save slots
+Replay name
+Secret information
+Continue
+Save
+Main lobby
+Restart
+Restart?
+Cancel
+Yes
+No
+Level
+Next
+Level complete
+Level not complete
+Okay
+Winner
+Opponent left the match
+Opponent was afk
+Time is up
+Send level
+Level name must not be empty
+Level successfully sent
+Ok
+Income
+End turn?
+Tutorial
+Basics
+Tactics
+Press button
+Tap
+Hi, let's go over the basics of the game.
+You rule the kingdom. Tap on it to select.
+You can expand your possessions by capturing new lands. Let me show.
+Each unit can only walk once per turn.
+By capturing the hex you have increased the profits of your kingdom. More hexes - more profit.
+This is profit
+Let's build a farm, this will increase the profit even more.
+These are the construction buttons
+The farm brings 4 coins per turn. Each new farm costs more than the previous one.
+We must defend our lands. Towers are well suited for this.
+Towers protect adjacent hexes from peasants and spearmen.
+Only a stronger unit can destroy a unit. The stronger the unit, the more expensive it is.
+This button undoes the last action.
+Let's finish our turn.
+You can collapse two units into one, stronger one. Let me show.
+You are now familiar with the basics of the game. Destroy the red kingdom to win.
+Let's talk about how to win.
+As you already know, the army consumes money. A strong army needs a strong economy.
+There is a large army near your borders. Let's cut it off from the main area.
+Cutting off the enemy's army from the main territory, we divided the enemy kingdom into two provinces.
+Each province has its own separate economy. The enemy army found itself in the province with no money and almost no income.
+Now, a couple of small tips. First, tap on any of your towers to see which lands are protected by buildings.
+Secondly, if you want to know the incomes of all kingdoms, then tap on a coin in the corner.
+Thirdly, with the help of a long press, you can quickly move large armies.
+And the last thing. If a tree grows on a hex, then such a hex does not give income.
+Let's figure out how diplomacy works in this game.
+First, you need to enter the diplomatic mode.
+In diplomatic mode, you can see relations with other kingdoms. Also, you can send letters.
+Let's write a letter to the yellow kingdom. To do this, you just need to tap on it.
+The letter consists of conditions. Let's offer friendship to the kingdom.
+Here you can configure the condition.
+Let's check the mail, suddenly they sent us a great offer.
+The arrow to the left of the condition shows who will be the beneficiary. The Pink Kingdom offers an alliance in exchange for their lands. Sounds good, you have to agree.
+You are now in an alliance with the pink kingdom. Moreover, within 7 turns, this alliance cannot be broken (This is called 'lock').
+The essence of the alliance is simple: if one member of the alliance is at war with some state, then the other members of the alliance join this war.
+By the way, in diplomatic mode, color indicators are shown at the borders of states. They show the relationship between states.
+Now you are familiar with the basics of diplomacy :)
+Neutral
+War
+Friend
+Alliance
+Letter
+Recipient
+Send
+Relationship
+Lock (turns)
+Target
+Lands
+Choose lands
+Letters
+Money
+Lands
+Relation
+Sender
+Agree
+Decline
+Conditions are impracticable
+War declared
+Neutrality declared
+Friendship declared
+Notification
+Smileys
+Create
+Import
+Export
+Delete
+Remove
+Rename
+Exported
+Editor slots
+Create new level
+Generate
+Clear level?
+Random generation
+Lands density
+Trees density
+Nodes value
+Loop
+Neutral towers
+Neutral cities
+Graves
+Money
+Launch
+Level exported
+Slot
+Before sending a level to the server, you must complete it. Press 'next' if you're ready to do it now.
+Level name
+Human players
+Delete '[slot_name]'?
+Calendar
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+Please restart app
+Language
+Sound
+Full screen
+Settings
+Graphics
+low
+medium
+high
+Languages
+Autosave
+Confirm to end turn
+Help
+Reset
+Really reset settings?
+Water texture
+Long tap
+This option allows you to quickly move large armies with a long press
+Detailed information
+With this option, you will see more information in the list of user levels
+Alert about start of a turn
+End turn automatically
+Turn will be ended automatically if there is nothing more to do
+Grid
+Localize time
+Affects how time is displayed
+Reconnection
+Game will automatically reconnect to a server and return to a current match when connection is lost
+Statistics
+Turns made
+Rules
+default
+classic
+Units built
+Units merged
+Units died
+Money spent
+Trees felled
+Max profit
+First attack (turn)
+Special thanks
+Special thanks to: #
+Oh no, something went wrong. # #If it's not difficult for you, then please make a screenshot and send it to my email: yiotro93@gmail.com
+
+Now available on iOS
+Beta version
+This is a beta version of the game.# #Most likely there will be a lot of bugs in the beginning. Jumping trees and units flying across the screen are possible. For all bugs, please email me (yiotro93@gmail.com).# #Also, during beta testing, there will be a small online, so look for opponents in my discord server (the link is in the subreddit /r/yiotro_games).
+Plans
+So far, there are only basic features here, but I plan to add the following to the release:#- Turn time up to 24 hours and the ability to re-enter the match#- Offline mode#- Dynamic turn time#- Coin system#- Levels and experience#- ELP rating#- Customization (skins, avatars)#- Communication with emoticons (in diplomacy)#- Calendar mode
+йцукенгшщзхъёфывапролджэячсмитьбюЙЦУКЕНГШЩЗХЪФЫВАПРОЛДЖЭЯЧСМИТЬБЮіІїЇєЄ
+Antiyoy Online это простая онлайн игра. Правила почти такие же как и в оффлайновой версии, но дипломатия совершенно другая. Кстати, при создании игры я вдохновлялся игрой Slay от Sean O'Connor.# #E-mail: yiotro93@gmail.com #Reddit: /r/yiotro_games #Игру сделал yiotro
+Вуаля! Это секретный экран.
+Игра использует гугл username в качестве никнейма а также гугл ID чтобы идентифицировать вас.
+Вы согласны?
+Я согласен
+Политика конфиденциальности
+Об игре
+Сражение
+Тренировка
+Загрузить
+Редактор
+Уровни игроков
+Повторы
+Быстрый матч
+Контент
+Кампания
+Начать
+Размер уровня
+крохотный
+маленький
+нормальный
+большой
+Случайно
+Игроки
+Игрок
+человек
+комп
+Классические правила
+Дипломатия
+Крупный
+Легкий
+Средний
+Сложный
+Эксперт
+Балансировщик
+Поиск матча
+Сервер молчит
+Кикнули
+Причина
+Обновить
+Ваш ход
+ИИ
+Наблюдать
+Перезапуск сервера через [time]. # #Обычно это значит что доступно новое обновление.
+Сервер был выключен
+Авторизация...
+Гость
+Не удалось войти
+Выбор никнейма
+Вы уверены что хотите быть [name]? #Вы сможете поменять свой никнейм позже.
+Создание аккаунта
+Выйти из аккаунта
+Успешный выход из аккаунта. В следующий раз вы сможете войти по другому.
+Выйти
+Время
+Пинг
+Двойной логин
+Модератор
+Админ
+Обычный игрок
+Вернуться в матч
+Возвращение в матч
+Текущий матч будет восстановлен после перезапуска.
+Если обновление недоступно в Google Play, то его можно скачать напрямую с Google Drive.
+Поиск соперников
+Матч отменён
+Соперники найдены
+Оффлайн режим включён
+Проверить переименование
+Переименования
+Новый никнейм
+Переименоваться в
+Запрос на переименование послан
+Недавний матч завершен
+Рейтинги
+Панель модератора
+Текущий онлайн
+Архив
+Свежие уровни
+Непроверенные
+Проверить уровень
+Инструкция
+Игроки могут присылать свои уровни на сервер, но качество этих уровней может быть разным. Кроме того, уровни могут нарушать правила магазина приложений, что может привести к бану игры. Модераторы помогают избежать таких проблем.# #Уровень надо отклонять в таких случаях:#- В названии уровня есть какая-то жижа.#- В самом уровне есть что-то очевидно негативное.#- Уровень имеет отношение к политическим событиям произошедшим менее 50 лет назад.#- Очевидная халтура, сделанная за ноль секунд левым пальцем правой ноги.
+Запрос уровня игрока
+Время создания
+Отклонить '[levelName]'?
+Утвердить
+Один уровень в сутки
+Загрузка уровня игрока
+Уровень игрока пройден
+Не пройден
+Уровень оценён
+Не нравится
+Действительно не нравится уровень?
+Пожаловаться
+Жалобы
+Проверить жалобу
+Жалоба отправлена
+Удалить уровень игрока?
+Вы теперь модератор
+Пожалуйста пройдите уровень чтобы послать его
+Матч
+Параметры матча
+Без дипломатии
+С дипломатией
+Обычные правила
+Подготовка
+Начало через
+Матч начинается...
+Особый матч
+Время хода
+Пароль
+Матч создаётся
+Матчи
+Пусто
+Заход в матч
+Выгнать
+Своя карта
+Выйти из матча
+Отмена действия
+Пропуск двух ходов
+Ход был закончен автоматически
+Матч был восстановлен, поэтому ИИ некоторое время будет затягивать ходы чтобы игроки успели вернуться.
+Некоторые параметры будут перезаписаны параметрами выбранной карты 
+Пожалуйста, завершите текущий матч
+Подключение к серверу...
+Соединение установлено
+Проверка протокола...
+Протокол правильный
+Сервер обновляется
+Версия клиента устарела
+Связь с сервером потеряна, игра попытается переподключиться
+Оффлайн
+Обмен
+Обменять
+Текущий обменный курс
+Недостаточно монет
+Куплено
+Активно
+Купить
+Кастомизация
+Рыба
+Фразы
+Купить [item] за [price]?
+Привет
+Пока
+Спасибо
+Зацени мой процент побед
+Зацени моё игровое время
+Мой процент побед
+Моё игровое время
+Забавно ;)
+Эта битва будет эпичной!
+Отлично сыграно
+Удачи
+Это что, баг?
+Давай построим ферму, чтобы увеличить прибыль города
+Доброе утро, друг мой
+Давай сделаем вид, что этого не было
+Отличная погода за окном
+Главное - не победа, а участие
+С новым годом!
+Пришел, увидел, проиграл
+Победа будет моей
+Надоело ждать
+Нет игрока лучше меня
+Нет игрока лучше чем [nickname]
+Зацени мой ELP
+Зацени моё звание
+Мой ELP
+Я
+Всё было рассчитано с точностью до мелочей
+Я знаю ;)
+Все с чего-то начинают
+Спасибо за игру
+Не так быстро
+Скины
+AWW 2.0
+Jannes Peters
+Matveismi art
+Katuri
+ShroomArts
+ч
+м
+с
+Друзья
+Слоты сохранений
+Название повтора
+Секретные сведения
+Продолжить
+Сохранить
+Главное лобби
+Заново
+Начать заново?
+Отмена
+Да
+Нет
+Уровень
+Дальше
+Уровень пройден
+Не удалось пройти уровень
+Ладно
+Победитель
+Соперник покинул матч
+Соперник был афк
+Время истекло
+Послать уровень
+Название уровня не должно быть пустым
+Уровень послан на проверку
+Oк
+Доход
+Закончить ход?
+Обучение
+Основы
+Тактика
+Нажми кнопку
+Тапни
+Привет, давай разберёмся в основах игры.
+Ты управляешь королевством. Тапни на него чтобы выделить.
+Свои владения можно расширять захватывая новые земли. Давай покажу.
+Каждый юнит может ходить только один раз за ход.
+Захватив хекс ты увеличил прибыль своего королевства. Больше хексов - больше прибыль.
+Это прибыль
+Давай построим ферму, это ещё больше увеличит прибыль.
+Это кнопки строительства
+Ферма приносит по 4 монеты в ход. Каждая новая ферма стоит дороже предыдущей.
+Свои земли надо защищать. Для этого хорошо подходят башни.
+Башни защищают прилегающие хексы от крестьян и копейщиков.
+Уничтожить юнита может только более сильный юнит. Чем сильнее юнит, тем он дороже.
+Эта кнопка отменяет последнее действие.
+Давай закончим ход.
+Можно схлопывать двух юнитов в одного, более сильного. Давай покажу.
+Теперь ты знаком с основами игры. Уничтожь красное королевство чтобы победить.
+Давай поговорим о том, как побеждать.
+Как ты уже знаешь, армия потребляет деньги. Для сильной армии нужна сильная экономика.
+Рядом с твоими границами стоит большая армия. Давай отрежем её от основной территории.
+Отрезав армию противника от основной территории мы разделили вражеское королевство на две провинции.
+У каждой провинции своя отдельная экономика. Армия противника оказалась в провинции без денег и почти без дохода.
+Теперь, пару мелких советов. Во-первых, тапни на любую свою башню чтобы увидеть какие земли защищены зданиями.
+Во-вторых, если хочешь узнать доходы всех королевств, то тапни на монету в углу.
+В-третьих, с помощью долгого нажатия можно быстро двигать большие армии.
+И последнее. Если на хексе растёт дерево, то такой хекс не даёт дохода.
+Давай разберёмся с тем, как работает дипломатия в этой игре.
+Для начала, надо войти в дипломатический режим.
+В дипломатическом режиме можно видеть отношения с другими королевствами. Также, можно посылать письма.
+Давай напишем письмо жёлтому королевству. Для этого надо просто тапнуть на него.
+Письмо состоит из условий. Предложим королевству дружбу.
+Тут можно настроить условие.
+Давай проверим почту, вдруг нам прислали выгодное предложение.
+Стрелочка слева от условия показывает кто будет бенефициаром. Розовое королевство предлагает альянс в обмен на свои земли. Звучит неплохо, надо соглашаться.
+Теперь ты в альянсе с розовым королевством. Причём, в течение 7 ходов этот альянс невозможно будет разорвать (Это называется 'блокировка').
+Суть альянса проста: если один участник альянса воюет с каким-то государством, то остальные участники альянса присоединяются к этой войне.
+Кстати, в дипломатическом режиме на границах государств показываются цветные индикаторы. Они показывают отношения между государствами.
+Теперь ты знаком с основами дипломатии :)
+Нейтрал
+Война
+Друг
+Альянс
+Письмо
+Получатель
+Послать
+Отношение
+Блокировка (ходы)
+Цель
+Земли
+Выбор земель
+Письма
+Деньги
+Земли
+Отношение
+Отправитель
+Принять
+Отказать
+Условия невыполнимы
+Объявлена война
+Объявлен нейтралитет
+Объявлена дружба
+Уведомление
+Смайлики
+Создать
+Импорт
+Экспорт
+Удалить
+Убрать
+Переименовать
+Экспортировано
+Слоты редактора
+Создать новый уровень
+Сгенерировать
+Очистить уровень?
+Случайная генерация
+Плотность земель
+Плотность деревьев
+Число нод
+Закольцевать
+Нейтральные башни
+Нейтральные города
+Могилы
+Деньги
+Запустить
+Уровень экспортирован
+Слот
+Перед отправкой уровня на сервер его надо пройти. Нажми 'дальше' если готов сделать это сейчас.
+Название уровня
+Живые игроки
+Удалить '[slot_name]'?
+Календарь
+Январь
+Февраль
+Март
+Апрель
+Май
+Июнь
+Июль
+Август
+Сентябрь
+Октябрь
+Ноябрь
+Декабрь
+Перезапустите приложение
+Язык
+Звук
+Полный экран
+Настройки
+Графика
+низкая
+обычная
+высокая
+Языки
+Автосохранение
+Подтверждать конец хода
+Помощь
+Сбросить
+Сбросить настройки?
+Текстура воды
+Долгое нажатие
+Эта опция позволяет быстро двигать большие армии с помощью долгого нажатия
+Подробная информация
+С этой опцией вы будете видеть больше информации в списке уровней игроков
+Оповещать о начале хода
+Автоматический конец хода
+Ход будет закончен автоматически если делать больше нечего
+Сетка
+Локализовать время
+Влияет на то как отображается время
+Переподключение
+Игра автоматически переподключится к серверу и вернется к текущему матчу при потере соединения
+Статистика
+Ходов сделано
+Правила
+по умолчанию
+классические
+Юнитов построено
+Юнитов схлопнуто
+Юнитов умерло
+Денег потрачено
+Деревьев срублено
+Макс. прибыль
+Первая атака (ход)
+Благодарности
+Особое спасибо этим людям: #
+Ой, что-то пошло не так. # #Если вам не сложно, то, пожалуйста, сделайте скриншот ошибки и вышлите его мне на email: yiotro93@gmail.com
+й ц у к е н г ш щ з х;ф ы в а п р о л д ж э;я ч с м и т ь б ю ъ
+Теперь доступно на iOS
+Бета версия
+Это бета версия игры. # #Скорее всего в начале тут будет много багов. Возможны прыгающие деревья и летающие по экрану юниты. Обо всех багах, пожалуйста, пишите мне на почту (yiotro93@gmail.com).# #Также, во время бета тестирования будет маленький онлайн, поэтому ищите соперников в моём дискорд сервере (ссылка есть в сабреддите /r/yiotro_games).
+Планы
+Пока что тут есть только базовые фичи, но к релизу я планирую добавить следующее:#- Время хода до 24 часов и возможность перезайти в матч#- Оффлайн режим#- Динамическое время хода#- Система монет#- Уровни и опыт#- Рейтинг ELP#- Кастомизация (скины, аватарки)#- Общение смайликами (в дипломатии)#- Режим 'календарь'
+йцукенгшщзхъёфывапролджэячсмитьбюЙЦУКЕНГШЩЗХЪФЫВАПРОЛДЖЭЯЧСМИТЬБЮіІїЇєЄ
+Antiyoy Online це проста онлайн гра. Правила майже такі ж як і в оффлайновой версії, але дипломатія абсолютно інша. До речі, при створенні гри я надихався грою Slay від Sean O'Connor.# #E-mail: yiotro93@gmail.com #Reddit: /r/yiotro_games #Гру зробив yiotro
+Вуаля! Це секретний екран.
+Гра використовує гугл username у якості нікнейму а також гугл ID для того щоб ідентифікувати вас.
+Ви згодні?
+Я згоден
+Політика конфіденційності
+Про гру
+Швидкий бій
+Тренування
+Завантажити
+Редактор
+Рівні гравців
+Повтори
+Швидкий матч
+Контент
+Кампанія
+Почати
+Розмір рівня
+крихітний
+маленький
+нормальний
+великий
+Випадково
+Гравці
+Гравцеь
+людина
+комп
+Класичні правила
+Дипломатія
+Дуже великий
+Легкий
+Середній
+Складний
+Експерт
+Балансувальник
+Пошук матчу
+Сервер мовчить
+Кікнули
+Причина
+Оновити
+Ваш хід
+Комп
+Спостережувати
+Рестарт серверу через [time]. # #Зазвичай це означає що є нове оновлення.
+Сервер було вимкнено
+Авторизація...
+Гість
+Не вдалося увійти
+Вибір нікнейму
+Ві впевнені що хочете бути [name]? #Ви зможете змінити свій нікнейм пізніше.
+Створення аккаунту
+Вийти з аккаунту
+Успішний вихід з облікового запису. Наступного разу ви зможете увійти по іншому.
+Вийти
+Час
+Пінг
+Подвійний логін
+Модератор
+Адмін
+Звичайний гравець
+Повернутися до матчу
+Повернення до матчу
+Поточний матч буде відновлено після перезапуску.
+Якщо оновлення немає в Google Play, то його можна завантажити безпосередньо з Google Drive.
+Пошук суперників
+Матч відмінено
+Суперники знайдені
+Офлайн режим активовано
+Перевірити перейменування
+Перейменування
+Новий нікнейм
+Перейменуватися у
+Запит на перейменування надіслано
+Нещодавній матч завершено
+Рейтинги
+Панель модератора
+Поточний онлайн
+Архів
+Свіжі рівні
+Неперевірені
+Перевірити рівень
+Інструкція
+Гравці можуть надсилати свої рівні на сервер, але якість цих рівнів може бути різною. Крім того, рівні можуть порушувати правила магазину додатків, що може привести до бану гри. Модератори допомагають уникнути таких проблем.# #Рівень треба відхиляти в таких випадках:#- У назві рівня є щось погане.#- У самому рівні є щось очевидно негативне.#- Рівень має відношення до політичних подій, що сталися менш ніж 50 років тому.#- Очевидна халтура, зроблена за нуль секунд лівим пальцем правої ноги.
+Запит рівня гравця
+Час створення
+Відхилити '[levelName]'?
+Ствердити
+Один рівень за добу
+Завантаження рівню гравця
+Рівень гравця пройдено
+Не пройдено
+Рівень оцінено
+Не подобається
+Дійсно не подобається рівень?
+Поскаржитися
+Скарги
+Перевірити скаргу
+Скарга відправлена
+Видалити рівень гравця?
+Ви тепер модератор
+Будь-ласка пройдіть рівень щоб послати його
+Матч
+Параметри матчу
+Без дипломатії
+З дипломатією
+Звичайні правила
+Підготовка
+Початок через
+Матч починается...
+Кастомний матч
+Час ходу
+Пароль
+Матч створюється
+Матчі
+Пусто
+Підключення до матчу
+Вигнати
+Своя мапа
+Вийти з матчу
+Відміна дії
+Пропуск двох ходів
+Хід було закінчено автоматично
+Матч було відновлено, тому штучний інтелект деякий час буде затягувати ходи щоб гравці встигли повернутися.
+Деякі параметри будуть перезаписані параметрами обраної карти
+Будь ласка, завершіть поточний матч
+Підключення до серверу...
+З'єднання встановлено
+Перевірка протоколу...
+Протокол правильний
+Сервер оновлюється
+Версія клієнта застаріла
+Зв'язок з сервером втрачено, гра спробує перепідключитися
+Офлайн
+Обмін
+Обміняти
+Поточний обмінний курс
+Недостатньо монет
+Куплено
+Активовано
+Придбати
+Кастомізація
+Риба
+Фрази
+Купити [item] за [price]?
+Привіт
+До побачення
+Дякую
+Заціни мій відсоток перемог
+Заціни мій ігровий час
+Мій відсоток перемог
+Мій ігровий час
+Смішно ;)
+Ця битва буде епічною
+Відмінно зіграно
+Хай щастить
+Це що, баг?
+Тепер давай побудуємо ферму щоб збiльшити прибуток мiста
+Доброго ранку, друже
+Давай зробимо вигляд що цього не було
+Чудова погода за вікном
+Головне не перемога, а участь
+З новим роком!
+Прийшов, побачив, програв
+Перемога буде моєю
+Набридло чекати
+Немає гравця краще за мене
+Немає гравця краще за [nickname]
+Заціни мій ELP
+Заціни мое звання
+Мій ELP
+Я
+Все було розраховано з точністю до дрібниць
+Я знаю ;)
+Усі з чогось починають
+Дякую за гру
+Не так швидко
+Скіни
+AWW 2.0
+Jannes Peters
+Matveismi art
+Katuri
+ShroomArts
+г
+хв
+с
+Любі друзі
+Слоти збережень
+Назва повтору
+Секретні відомості
+Продовжити
+Зберегти
+Головне лоббі
+Заново
+Почати заново?
+Відміна
+Так
+Ні
+Рівень
+Далі
+Рівень пройдено
+Не вдалося пройти рівень
+Гаразд
+Переможець
+Суперник покинув матч
+Суперник був афк
+Час минув
+Надіслати рівень
+Назва рівня не повинна бути порожньою
+Рівень надіслано на перевірку
+Ок
+Дохід
+Закінчити хід?
+Туторіал
+Основи
+Тактика
+Натисни кнопку
+Натисни
+Привіт, давай розберемося в основах гри.
+Ти керуєш королівством. Тапні на нього щоб виділити.
+Свої володіння можна розширювати захоплюючи нові землі. Давай покажу.
+Кожен юніт може ходити тільки один раз за хід.
+Захопивши хекс ти збільшив прибуток свого королівства. Більше хексів - більший прибуток.
+Це прибуток
+Давай побудуємо ферму, це ще більше збільшить прибуток.
+Це кнопки будівництва
+Ферма приносить по 4 монети в хід. Кожна нова ферма коштує дорожче за попередню.
+Свої землі треба захищати. Для цього добре підходять башти.
+Башти захищають прилеглі хекса від селян і копейщиков.
+Знищити юніта може тільки сильніший юніт. Чим сильніше юніт, тим він дорожчий.
+Ця кнопка скасовує останню дію.
+Давай закінчимо хід.
+Можна об'єднувати двох юнітів в одного, більш сильного. Давай покажу.
+Тепер ти знайомий з основами гри. Знищ червоне королівство щоб перемогти.
+Давай поговоримо про те, як перемагати.
+Як ти вже знаєш, армія споживає гроші. Для сильної армії потрібна сильна економіка.
+Поруч з твоїми межами стоїть велика армія. Давай відріжемо її від основної території.
+Відрізавши армію супротивника від основної території ми розділили вороже королівство на дві провінції.
+У кожній провінції своя окрема економіка. Армія противника опинилася в провінції без грошей і майже без доходу.
+Тепер, пару дрібних порад. По-перше, тапні на будь-яку свою вежу щоб побачити які землі захищені будівлями.
+По-друге, якщо хочеш дізнатися доходи всіх королівств, то тапни на монету в кутку.
+По-третє, за допомогою довгого натискання можна швидко рухати великі армії.
+І останнє. Якщо на хексі росте дерево, то такий хекс не дає доходу.
+Давай розберемося з тим, як працює дипломатія в цій грі.
+Для початку, треба увійти в дипломатичний режим.
+У дипломатичному режимі можна бачити відносини з іншими королівствами. Також, можна надсилати листи.
+Давай напишемо лист жовтому королівству. Для цього треба просто тапнути на нього.
+Лист складається з умов. Запропонуємо королівству дружбу.
+Тут можна налаштувати умову.
+Давай перевіримо пошту, раптом нам прислали вигідну пропозицію.
+Стрілочка зліва від умови показує хто буде бенефіціаром. Рожеве королівство пропонує альянс в обмін на свої землі. Звучить непогано, треба погоджуватися.
+Тепер ти в альянсі з рожевим королівством. Причому, протягом 7 ходів цей альянс неможливо буде розірвати (Це називається 'блокування').
+Суть альянсу проста: якщо один учасник альянсу воює з якоюсь державою, то інші учасники альянсу приєднуються до цієї війни.
+До речі, в дипломатичному режимі на кордонах держав показуються кольорові індикатори. Вони показують відносини між державами.
+Тепер ти знайомий з основами дипломатії :)
+Нейтрал
+Війна
+Друг
+Альянс
+Лист
+Отримувач
+Надіслати
+Відношення
+Блокування (ходи)
+Ціль
+Землі
+Вибір земель
+Листи
+Гроші
+Землі
+Відношення
+Відправник
+Прийняти
+Відмовити
+Умови неможливі
+Оголошено війну
+Оголошено нейтралітет
+Оголошено дружбу
+Повідомлення
+Смайли
+Створити
+Імпорт
+Експорт
+Видалити
+Видалити
+Перейменувати
+Експортовано
+Слоти редактору
+Створити новий рівень
+Сгенерувати
+Очистити рівень?
+Рандомна генерація
+Щільність земель
+Щільність дерев
+Кількість нод
+Закільцювати
+Нейтральні вежі
+Нейтральні міста
+Могили
+Гроші
+Запустити
+рівень експортовано
+Слот
+Перед відправкою рівня на сервер його треба пройти. Натисни 'далі' якщо готовий зробити це зараз.
+Назва мапи
+Живі гравці
+Видалити '[slot_name]'?
+Календар
+Січень
+Лютий
+Березень
+Квітень
+Травень
+Червень
+Липень
+Серпень
+Вересень
+Жовтень
+Листопад
+Грудень
+Перезапустіть гру
+Мова
+Звук
+Повний екран
+Налаштування
+Графіка
+низька
+звичайна
+висока
+Мови
+Автозбереження
+Підтверж. кінець ходу
+Допомога
+Скинути
+Скинути налаштування?
+Текстура води
+Довгий натиск
+Ця опція дозволяє швидко рухати великі армії за допомогою довгого натискання
+Детальна інформація
+З цією опцією ви будете бачити більше інформації в списку рівнів гравців
+Сповіщати про початок ходу
+Автоматичний кінець ходу
+Хід буде закінчено автоматично якщо робити більше нічого
+Сітка
+Переводити час
+Впливає на те як відображається час
+Перепідключення
+Гра автоматично підключиться до сервера і повернеться до поточного матчу, коли з'єднання розірветься
+Статистика
+Ходів зроблено
+Правила
+За замовчуванням
+класичні
+Юнітів побудовано
+Юнітів схлопнуто
+Юнітів померло
+Грошей витрачено
+Дерев зрубано
+Макс. прибуток
+Перша атака (хід)
+Подяки
+Дуже дякую цим людям: #
+Ой, щось пішло не так. # #Якщо вам не важко, то будь-ласка зробіть знімок екрану та вишліть його мені на email: yiotro93@gmail.com
+й ц у к е н г ш щ з х;ф і в а п р о л д ж є;я ч с м и т ь б ю ї
+Тепер на iOS
+Бета версія
+Це бета версія гри.# #Швидше за все на початку тут буде багато багів. Можливі стрибучі дерева і літаючі по екрану юніти. Про всі баги, будь ласка, пишіть мені на пошту (yiotro93@gmail.com).# #Також, під час бета тестування буде маленький онлайн, тому шукайте суперників в моєму discord сервері (посилання є в сабреддіті /r/yiotro_games).
+Плани
+Поки що тут є тільки базові фичи, але до релізу я планую додати наступне:#- Час ходу до 24 годин і можливість перезайти в матч#- Оффлайн режим#- Динамічний час ходу#- Система монет#- Рівні і досвід#- Рейтинг ELP#- Кастомізація (скіни, аватарки)#- Спілкування смайликами (в дипломатії)#- Режим 'календар'
+йцукеёнгшўзх'фывапролджэячсмітьбюЙЦУКЕНГШЎЗХФЫВАПРОЛДЖЭЯЧСМІТЬБЮ
+Antiyoy Online гэта простая анлайн гульня. Правілы амаль такія ж як і ў афлайн версіі, але дыпламатыя зусім іншая. Дарэчы, пры стварэнні гульні я натхніўся гульнёй Slay ад Sean O'Connor.# #E-mail: yiotro93@gmail.com #Reddit: /r/yiotro_games #Гульню зрабіў yiotro
+Вуаля! Гэта сакрэтны экран.
+Гульня выкарыстоўвае гугл username у якасці нікнэйм а таксама гугл ID для таго каб ідэнтыфікаваць вас.
+Вы згодны?
+Я згодны
+Палітыка прыватнасці
+Пра гульню
+Змаганне
+Трэніроўка
+Загрузіць
+Рэдактар
+Узроўні гульцоў
+Паўторы
+Хуткі матч
+Content
+Campaign
+Пачаць
+Памер ўзроўню
+маленечкі
+невялікі
+нармальны
+вялікі
+Выпадкова
+Гульцы
+Гулец
+чалавек
+камп
+Класічныя правілы
+Дыпламатыя
+Large
+Easy
+Average
+Hard
+Expert
+Balancer
+Пошук матчу
+Сервер маўчыць
+Кікнулі
+Прычына
+Абнавіць
+Ваш ход
+ШІ
+Назіраць
+Перезапуск сервера праз [time]. # #Звычайна гэта значыць што даступна новае абнаўленне.
+Сервер быў выключаны
+Аўтарызацыя...
+Госць
+Не атрымалася ўвайсці
+Выбар нікнэйма
+Are you sure that you want to be [name]? #You will be able to change your nickname later.
+Стварэнне акаўнта
+Выйсці з акаўнта
+Паспяховы выхад з акаўнта. У наступны раз вы зможаце ўвайсці інакш.
+Выйсці
+Час
+Пінг
+Double login
+Мадэратар
+Адмін
+Звычайны гулец
+Вярнуцца да матчу
+Вяртанне да матчу
+Цяперашні матч будзе адноўлены пасля перазапуску.
+Калі абнаўленне недаступна ў Google Play, тады яго можна скачаць з Google Drive.
+Searching for rivals
+Match cancelled
+Rivals found
+Offline mode enabled
+Check renaming
+Renaming
+New nickname
+Rename to
+Rename request sent
+Recent match finished
+Ratings
+Панэль мадэратара
+Цяперашні анлайн
+Архіў
+Свежыя ўзроўні
+Неправераныя
+Праверыць узровень
+Інструкцыя
+Гульцы могуць дасылаць свае ўзроўні на сервер, але якасць гэтых узроўняў можа быць рознай. Акрамя таго, узроўні могуць парушаць правілы app store, што можа прывесці да бану гульні. Мадэратары дапамагаюць пазбегнуць такіх праблем.# #Узровень трэба адхіляць ў такіх выпадках:#- У назве ўзроўню ёсць нейкая жыжка.#- У самым узроўні ёсць нешта відавочна негатыўнае.#- Узровень мае дачыненне да палітычных падзеяў, якія адбыліся менш за 50 гадоў да гэтага моманту.#- Відавочная халтура, зробленая за нуль секунд левым пальцам правай нагі.
+Запыт ўзроўня гульца
+Час стварэння
+Адхіліць '[levelName]'?
+Зацвердзіць
+Адзін узровень ў суткі
+Загрузка ўзроўня гульца
+Узровень гульца пройдзены
+Не пройдзены
+Узровень ацэнены
+Не падабаецца
+Сапраўды не падабаецца ўзровень?
+Паскардзіцца
+Скаргі
+Праверыць скаргу
+Скарга адпраўлена
+Выдаліць ўзровень гульца?
+Зараз вы мадэратар
+Калі ласка прайдзіце ўзровень каб паслаць яго
+Матч
+Параметры матчу
+Без дыпламатыі
+З дыпламатыяй
+Звычайныя правілы
+Падрыхтоўка
+Пачатак праз
+Матч пачынаецца...
+Асаблівы матч
+Час ходу
+Пароль
+Матч ствараецца
+Матчы
+Пуста
+Уваход у матч
+Выгнаць
+Свая карта
+Выйсці з матчу
+Адмена дзеяння
+Пропуск двух хадоў
+Ход был закончаны аўтаматычна
+Матч быў адноўлены, таму ШІ некаторы час будзе цягнуць хады каб гульцы паспелі вярнуцца.
+Some parameters will be overwritten by the parameters of the chosen map
+Please finish current match
+Злучэнне з серверам...
+Злучэнне ўстаноўлена
+Праверка пратаколу...
+Пратакол правільны
+Сервер абнаўляецца
+Версія кліента ўстарэла
+Connection to server is lost, the game will try to reconnect
+Offline
+Абмен
+Абменясць
+Цяперашні абменны курс
+Недастаткова манет
+Куплена
+Актыўна
+Купіць
+Customization
+Fish
+Phrases
+Buy [item] for [price]?
+Hi
+Goodbye
+Thanks
+Check out my win rate
+Check out my play time
+My win rate
+My play time
+Funny ;)
+This battle will be epic!
+Well played
+Good luck
+Is this a bug?
+Let's build a farm to get even higher income.
+Good morning my friend
+Let's pretend it didn't happen
+Great weather outside
+The important thing is not to win but to take part
+Happy new year!
+I came, I saw, I lost
+Victory will be mine
+Tired of waiting
+There is no player better than me
+There is no player better than [nickname]
+Check my ELP
+Check my rank
+My ELP
+I am
+Everything was calculated to the smallest detail
+I know ;)
+Everyone start somewhere
+Thanks for the game
+Not so fast
+Skins
+AWW 2.0
+Jannes Peters
+Matveismi art
+Katuri
+ShroomArts
+г
+х
+с
+Сябры
+Слаты захаванняў
+Назва паўтору
+Сакрэтная інфармацыя
+Працягнуць
+Захаваць
+Галоўнае лобі
+Зноўку
+Пачаць спачатку?
+Адмена
+Так
+Не
+Level
+Далей
+Узровень пройдзены
+Не атрымалася прайсці ўзровень
+Добра
+Пераможац
+Сапернік пакінуў матч
+Сапернік быў АФК
+Час скончыўся
+Паслаць ўзровень
+Назва ўзроўня не павінна быць пустой
+Узровень пасланы на праверку
+Oк
+Даход
+Скончыць ход?
+Tutorial
+Basics
+Tactics
+Націсні кнопку
+Tap
+Hi, let's go over the basics of the game.
+You rule the kingdom. Tap on it to select.
+You can expand your possessions by capturing new lands. Let me show.
+Each unit can only walk once per turn.
+By capturing the hex you have increased the profits of your kingdom. More hexes - more profit.
+This is profit
+Let's build a farm, this will increase the profit even more.
+These are the construction buttons
+The farm brings 4 coins per turn. Each new farm costs more than the previous one.
+We must defend our lands. Towers are well suited for this.
+Towers protect adjacent hexes from peasants and spearmen.
+Only a stronger unit can destroy a unit. The stronger the unit, the more expensive it is.
+This button undoes the last action.
+Let's finish our turn.
+You can collapse two units into one, stronger one. Let me show.
+You are now familiar with the basics of the game. Destroy the red kingdom to win.
+Let's talk about how to win.
+As you already know, the army consumes money. A strong army needs a strong economy.
+There is a large army near your borders. Let's cut it off from the main area.
+Cutting off the enemy's army from the main territory, we divided the enemy kingdom into two provinces.
+Each province has its own separate economy. The enemy army found itself in the province with no money and almost no income.
+Now, a couple of small tips. First, tap on any of your towers to see which lands are protected by buildings.
+Secondly, if you want to know the incomes of all kingdoms, then tap on a coin in the corner.
+Thirdly, with the help of a long press, you can quickly move large armies.
+And the last thing. If a tree grows on a hex, then such a hex does not give income.
+Let's figure out how diplomacy works in this game.
+First, you need to enter the diplomatic mode.
+In diplomatic mode, you can see relations with other kingdoms. Also, you can send letters.
+Let's write a letter to the yellow kingdom. To do this, you just need to tap on it.
+The letter consists of conditions. Let's offer friendship to the kingdom.
+Here you can configure the condition.
+Let's check the mail, suddenly they sent us a great offer.
+The arrow to the left of the condition shows who will be the beneficiary. The Pink Kingdom offers an alliance in exchange for their lands. Sounds good, you have to agree.
+You are now in an alliance with the pink kingdom. Moreover, within 7 turns, this alliance cannot be broken (This is called 'blocking').
+The essence of the alliance is simple: if one member of the alliance is at war with some state, then the other members of the alliance join this war.
+By the way, in diplomatic mode, color indicators are shown at the borders of states. They show the relationship between states.
+Now you are familiar with the basics of diplomacy :)
+Нейтрал
+Вайна
+Сябар
+Альянс
+Пошта
+Атрымальнік
+Паслаць
+Адносіны
+Блакіраванне (хады)
+Цэль
+Зямлі
+Выбар зямель
+Пісьма
+Грошы
+Lands
+Адносіны
+Адпраўшчык
+Прыняць
+Адмовіць
+Умовы невыканальны
+Аб'яўлена вайна
+Аб'яўлен нейтралітэт
+Аб'яўлена дружба
+Апавяшчэнне
+Smileys
+Стварыць
+Імпарт
+Экспарт
+Выдаліць
+Устраніць
+Перайменаваць
+Экспартараваны
+Слаты рэдактара
+Стварыць новы ўзровень
+Згенераваць
+Адчысціць ўзровень?
+Выпадковая генерацыі
+Гушчыня зямель
+Гушчыня дрэў
+Лік нод
+Закальцаваць
+Нейтральныя вежы
+Нейтральныя гарады
+Могілкі
+Грошы
+Запусціць
+Узровень экспартаваны
+Слот
+Перад адпраўкай узроўню на сервер яго трэба прайсці. Націсні 'далей', калі гатовы зрабіць гэта цяпер.
+Назва ўзроўню
+Human players
+Delete '[slot_name]'?
+Calendar
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+Перазапусціце прыкладанне
+Мова
+Гук
+Поўны экран
+Налады
+Графіка
+нізкая
+звычайная
+высокая
+Мовы
+Аўтазахаванне
+Пацвярджаць канец ходу
+Дапамога
+Знесці
+Знесці налады?
+Тэкстура вады
+Доўгі націск
+Гэта опцыя дазваляе хутка рухаць вялікія арміі з дапамогай доўгага натіску
+Падрабязная інфармацыя
+З гэтай опцыяй вы будзеце бачыць больш інфармаціі ў спісе ўзроўняў гульцоў
+Апавяшчаць аб пачатку хода
+Аўтаматычны канец хода
+Ход будзе закончаны аўтаматычна, калі рабіць больш няма чаго
+Сетка
+Лакалізаваць час
+Уплывае на тое, як адлюстроўваецца час
+Reconnection
+Game will automatically reconnect to a server and return to a current match when connection is lost
+Статыстыка
+Хадоў зроблена
+Правілы
+па стандарту
+класічныя
+Юнітаў пабудавана
+Юнітаў злучана
+Юнітаў памерла
+Грошай патрачана
+Дрэў ссечана
+Макс. прыбытак
+Першая атака (ход)
+Падзякі
+Асаблівы дзякуй гэтым людзям: #
+Ой, нешта пайшло не так. # #Калі вам не складана, то, калі ласка, зрабіце скрыншот памылкі і вышліце яго мне на email: yiotro93@gmail.com
+й ц у к е н г ш щ з х;ф ы в а п р о л д ж э;я ч с м и т ь б ю ъ
+Зараз даступна на IOS
+Бэта версія
+Гэта бэта версія гульні. # #Хутчэй за ўсё ў пачатку тут будзе шмат багаў. Магчыма скачуць дрэвы і лётаюць па экране юніты. Пра ўсе багі, калі ласка, пішыце мне на пошту (yiotro93@gmail.com).# #Таксама, падчас бэта тэставання будзе маленькі онлайн, таму шукайце супернікаў у маім дискорд серверы (спасылка ёсць у сабреддзіте /r/yiotro_games).
+Планы
+Зараз тут ёсць толькі базавыя фічы, але да рэлізу я планую дадаць наступнае:#- Час ходу да 24 гадзін і магчымасць перазайсці ў матч#- Аффлайн рэжым#- Дынамічны час ходу#- Сістэма манет#- Узроўні і вопыт#- Рэйтынг ELP#- Кастамізацыя (скіны, аватарка)#- Зносіны смайлікамі (у дыпламатыі)#- Рэжым 'каляндар'
+ĄąČčĘęĖėĮįŠšŲųŪūŽž„“
+Antiyoy Online yra paprastas internetinis žaidimas. Taisyklės yra beveik tokios pačios kaip ir senesnioje versijoje, tačiau diplomatija veikia visiškai kitaip. Be to, šis žaidimas buvo įkvėptas Slay nuo Sean O'Connor.# #El. paštas: yiotro93@gmail.com #Reddit: /r/yiotro_games #Žaidimą sukūrė yiotro
+Voila! Tai yra slaptasis ekranas.
+Šis žaidimas naudoja Google naudotojo vardą kaip pravardę ir Google ID jūsų atpažinimui.
+Ar sutinkate?
+Sutinku
+Privatumo politika
+Apie žaidimą
+Mūšis
+Treniruotė
+Įkelti
+Redaktorius
+Žaidėjų lygiai
+Įrašai
+Spartusis mačas
+Turinys
+Kampanija
+Pradėti
+Lygio dydis
+mažytis
+mažas
+normalus
+didelis
+Atsitiktinai
+Žaidėjai
+Žaidėjas
+žmogus
+DI
+Klasikinės taisyklės
+Diplomatija
+didžiulis
+Lengvas
+Vidutinis
+Sunkus
+Ekspertas
+Taktikas
+Ieškomas mačas
+Serveris tyli
+Buvote išmesti
+Priežastis
+Naujinti
+Jūsų eilė
+DI
+Stebėti
+Serveris bus paleistas iš naujo po [time]. # #Paprastai tai reiškia, kad yra prieinamas naujinimas.
+Serveris buvo išjungtas
+Autorizavimas...
+Svečias
+Nepavyko prisijungti
+Pasirinkite pravardę
+Tikrai norite būti [name]? #Savo pravardę galėsite pakeisti vėliau.
+Kuriama paskyra
+Atsijungti
+Sėkmingai atsijungėte. Kitą kartą galėsite prisijungti kitaip.
+Išeiti
+Laikas
+Delsa
+Dvigubas prisijungimas
+Moderatorius
+Administratorius
+Paprastas žaidėjas
+Grįžti į mačą
+Grįžimas į mačą
+Dabartinis mačas bus atkurtas po paleidimo iš naujo.
+Jei naujinimas nėra prieinamas Play parduotuvėje, jį galite atsisiųsti tiesiai iš Google disko.
+Ieškomi varžovai
+Mačas atšauktas
+Varžovai rasti
+Autonominis režimas įjungtas
+Tikrinti pervardymą
+Pervardymai
+Nauja pravardė
+Pervardyti į
+Pervardymo užklausa išsiųsta
+Pastaras mačas baigtas
+Reitingai
+Moderatoriaus skydas
+Prisijungę žaidėjai
+Archyvas
+Švieži lygiai
+Nepatvirtinti
+Tikrinti lygį
+Instrukcija
+Žaidėjai gali pateikti lygius serveriui, tačiau šių lygių kokybė gali skirtis. Lygiai taip pat gali pažeisti programėlių parduotuvės taisykles ir užblokuoti žaidimą. Moderatoriai padeda išvengti tokių problemų.# #Lygis turi būti atmestas šiais atvejais:#- Lygio pavadinimas pažeidžia programėlių parduotuvės taisykles.#- Pačiame lygyje yra kažkas akivaizdžiai neigiamo.#- Lygis yra susijęs su mažiau nei 50 metų senumo politiniais įvykiais.#- Akivaizdus šlamštas, kuris buvo sukurtas per kelias sekundes.
+Žaidėjo lygio užklausa
+Kūrimo laikas
+Atmesti „[levelName]“?
+Patvirtinti
+Vienas lygis per dieną
+Įkeliamas žaidėjo lygis
+Žaidėjo lygis pereitas
+Nepereitas
+Lygis įvertintas
+Nepatinka
+Tikrai nepatinka lygis?
+Skųstis
+Skundai
+Tikrinti skundą
+Skundas išsiųstas
+Naikinti žaidėjo lygį?
+Dabar esate moderatorius
+Pereikite lygį, kad jį išsiųstumėte
+Mačas
+Mačo parametrai
+Be diplomatijos
+Su diplomatija
+Įprastos taisyklės
+Pasiruošimas
+Pradžia po
+Pradedamas mačas...
+Tinkintas mačas
+Ėjimo trukmė
+Slaptažodis
+Kuriamas mačas
+Mačai
+Tuščia
+Prisijungimas prie mačo
+Išmesti
+Tinkintas žemėlapis
+Išeiti iš mačo
+Atšaukti veiksmą
+Praleisti du ėjimai
+Ėjimas buvo baigtas automatiškai
+Mačas buvo atkurtas, todėl DI uždels ėjimus, kad žaidėjai galėtų grįžti.
+Kai kurie parametrai bus perrašyti pasirinkto žemėlapio parametrais
+Baikite dabartinį mačą
+Prisijungimas prie serverio...
+Ryšys užmegztas
+Tikrinamas protokolas...
+Protokolas teisingas
+Serveris naujinamas
+Kliento versija pasenusi
+Ryšys su serveriu nutrūko, žaidimas bandys iš naujo prisijungti
+Autonominis režimas
+Mainai
+Mainyti
+Dabartinis mainų kursas
+Nepakanka monetų
+Įsigyta
+Naudojama
+Pirkti
+Tinkinimas
+Žuvis
+Frazės
+Pirkti [item] už [price]?
+Labas
+Ate
+Ačiū
+Pažiūrėk į mano pergalių koeficientą
+Pažiūrėk į mano žaidimo laiką
+Mano pergalių koeficientas
+Mano žaidimo laikas
+Juokinga ;)
+Šis mūšis bus nepakartojamas!
+Neblogai sužaista
+Sėkmės
+Ar tai klaida?
+Pastatykime fermą, kad padidintumėme pelną.
+Labas rytas, mano drauge
+Apsimeskime, kad nieko neatsitiko
+Puikus oras lauke
+Svarbiausia - ne pargalė, o dalyvavimas
+Su Naujaisiais metais!
+Atėjau, pamačiau, pralaimėjau
+Pergalė bus mano
+Nusibodo laukti
+Nėra geresnio žaidėjo už mane
+Nėra geresnio žaidėjo už [nickname]
+Pažiūrėk į mano ELP
+Pažiūrėk į mano rangą
+Mano ELP
+Aš
+Viskas buvo apskaičiuota iki smulkiausių detalių
+Aš žinau ;)
+Visi pradedame nuo kažkur
+Ačiū už žaidimą
+Ne taip greitai
+Stiliai
+AWW 2.0
+Jannes Peters
+Matveismi art
+Katuri
+ShroomArts
+val.
+min.
+sek.
+Draugai
+Išsaugojimai
+Įrašo pavadinimas
+Informacija slapta
+Tęsti
+Išsaugoti
+Pagrindinis meniu
+Pradėti iš naujo
+Pradėti iš naujo?
+Atšaukti
+Taip
+Ne
+Lygis:
+Toliau
+Lygis pereitas
+Lygis nepereitas
+Gerai
+Nugalėtojas
+Varžovas paliko mačą
+Varžovas buvo neaktyvus
+Laikas baigėsi
+Siųsti lygį
+Lygio pavadinimas negali būti tuščias
+Lygis išsiųstas
+Gerai
+Pajamos
+Baigti ėjimą?
+Apmokymas
+Pagrindai
+Taktikos
+Spustelėkite mygtuką
+Bakstelėkite
+Sveiki, aš jums padėsiu išmokti žaidimo pagrindus.
+Jūs valdote karalystę. Bakstelėkite ant jos, kad ją pasirinktumėte.
+Norėdami išplėsti valdomas žemes, turite užimti provincijas. Leiskite man parodyti.
+Kiekvienas vienetas gali eiti tik kartą per ėjimą.
+Užimdami šią provinciją, padidinote savo karalystės pelną. Daugiau provincijų - daugiau pelno.
+Tai yra pelnas
+Pastatykime fermą, kad padidintumėme pelną.
+Tai yra statybos mygtukai
+Ferma atneša 4 monetas per ėjimą. Kiekviena nauja ferma yra brangesnė nei ankstesnė.
+Turime apsaugoti mūsų žemes. Tam puikiai tinka bokštai.
+Bokštai apsaugo gretimas provincijas nuo valstiečių ir ietininkų.
+Vienetą gali sunaikinti tik stipresnis vienetas. Kuo stipresnis vienetas, tuo jis brangesnis.
+Šis mygtukas atšaukia paskutinį veiksmą.
+Baikime mūsų ėjimą.
+Dabar galite sujungti du vienetus į vieną stipresnį. Leiskite man parodyti.
+Dabar esate susipažinę su žaidimo pagrindais. Sunaikinkite raudoną karalystę, kad pereitumėte lygį.
+Pakalbėkime apie tai, kaip laimėti.
+Kaip jau žinote, vienetai naudoja pinigus. Stipri kariuomenė reikalauja stiprios ekonomikos.
+Netoli jūsų sienų stovi didelė kariuomenė. Atskirkime ją nuo pagrindinės teritorijos.
+Atskirdami priešo kariuomenę nuo pagrindinės teritorijos, padalinome priešo karalystę į dvi dalis.
+Kiekviena provincija turi savo atskirą ekonomiką. Priešo kariuomenė atsidūrė provincijoje be pinigų ir beveik be pajamų.
+Pora mažų patarimų. Pirma, bakstelėkite ant bet kurio jūsų bokšto, kad pamatytumėte, kurios žemės yra apsaugotos statinio.
+Antra, jei norite žinoti visų karalysčių pajamas, tada bakstelėkite ant monetos.
+Trečia, su ilgo bakstelėjimo pagalba galite greitai perkelti dideles kariuomenes.
+Ir paskutinis dalykas. Jei provincijoje užaugs medis, tada tokia provincija neduos pajamų.
+Išsiaiškinkime, kaip veikia diplomatija.
+Pirmiausia turite įeiti į diplomatijos režimą.
+Diplomatijos režime galite matyti santykius su kitomis karalystėmis. Taip pat galite siųsti laiškus.
+Parašykime laišką geltonai karalystei. Kad tai padaryti, jums tereikia ant jos bakstelėti.
+Laiškas susideda iš sąlygų. Pasiūlykime šiai karalystei draugystę.
+Čia galite keisti sąlygas.
+Patikrinkime paštą, staiga jie mums atsiuntė puikų pasiūlymą.
+Rodyklė sąlygos kairėje rodo, kam bus naudinga. Rožinė karalystė siūlo aljansą už jų žemes. Skamba gerai, turite sutikti.
+Dabar esate aljanse su rožine karalyste. 7 ėjimų eigoje šis aljansas bus nenutraukiamas (tai vadinama „blokavimas“).
+Aljanso esmė yra paprasta: jei vienas aljanso narys yra kare su kuria nors valstybe, tai kiti aljanso nariai prisijungia prie šio karo.
+Beje, diplomatijos režime galite matyti spalvotus indikatorius išilgai valstybių sienų. Jie rodo santykius tarp valstybių.
+Dabar esate susipažinę su diplomatijos pagrindais :)
+Neutralus
+Karas
+Draugas
+Aljansas
+Laiškas
+Gavėjas
+Siųsti
+Santykiai
+Blokavimas (ėjimai)
+Taikinys
+Žemės
+Pasirinkite žemes
+Laiškai
+Pinigai
+Žemės
+Santykis
+Siuntėjas
+Sutikti
+Atmesti
+Sąlygos neįgyvendinamos
+Karo paskelbimas
+Neutralumo paskelbimas
+Draugystės paskelbimas
+Pranešimas
+Jaustukai
+Kurti
+Importuoti
+Eksportuoti
+Naikinti
+Šalinti
+Pervardyti
+Eksportuota
+Redaktoriaus lygiai
+Kurti naują lygį
+Generuoti
+Valyti lygį?
+Atsitiktinė generacija
+Žemių tankis
+Medžių tankis
+Provincijų reikšmė
+Kilpa
+Neutralūs bokštai
+Neutralūs miestai
+Kapai
+Pinigai
+Paleisti
+Lygis eksportuotas
+Lygis
+Prieš siųsdami lygi serveriui, turite jį pereiti. Spustelėkite „Toliau“, jei esate pasiruošę tai daryti dabar.
+Lygio pavadinimas
+Gyvi žaidėjai
+Naikinti „[slot_name]“?
+Kalendorius
+Sausis
+Vasaris
+Kovas
+Balandis
+Gegužė
+Birželis
+Liepa
+Rugpjūtis
+Rugsėjis
+Spalis
+Lapkritis
+Gruodis
+Paleiskite žaidimą iš naujo
+Kalba
+Garsas
+Visas ekranas
+Nustatymai
+Grafika
+žema
+vidutinė
+aukšta
+Kalbos
+Automatinis išsaugojimas
+Patvirtinimas ėjimo baigimui
+Pagalba
+Atkurti
+Tikrai norite atkurti nustatymus?
+Vandens tekstūra
+Ilgas bakstelėjimas
+Leidžia greitai perkelti vienetus su ilgu bakstelėjimu
+Išsami informacija
+Daugiau informacijos žaidėjų lygių sąraše
+Įspėti apie ėjimo pradžią
+Automatiškai baigti ėjimą
+Ėjimai bus baigti automatiškai, jei nebus ką veikti
+Tinklelis
+Išversti laiką
+Paveikia, kaip bus rodomas laikas
+Prisijungimas iš naujo
+Jei nutrūks ryšys, žaidimas automatiškai prisijungs prie serverio ir grįš į dabartinį mačą
+Statistika
+Ėjimai
+Taisyklės
+pagal standartą
+klasikinės
+Pastatyta vienetų
+Sujungta vienetų
+Žuvo vienetų
+Išleista pinigų
+Iškirsta medžių
+Daugiausia pelno
+Pirmasis puolimas (ėjimas)
+Ypatinga padėka
+Ypatinga padėka šiems žmonėms: #
+O ne, kažkas nutiko! # #Jei jums nesudėtinga, tada padarykite ekrano nuotrauką ir išsiųskite ją man el. paštu: yiotro93@gmail.com
+ą ž e r t y u i o p į;a s d f g h j k l ų ė;z ū c v b n m č š ę
+Dabar prieinama su iOS sistemomis
+Beta versija
+Tai yra žaidimo beta versija.# #Tikėtina, kad žaidime bus daug klaidų. Šokantys medžiai ir skraidantys vienetai per ekraną yra tikėtini. Jei rasite klaidų, parašykite man el. paštu (yiotro93@gmail.com).# #Beta testavimo metu bendruomenė bus maža, todėl ieškokite varžovų mano Discord serveryje (nuoroda yra mano Reddit puslapyje /r/yiotro_games).
+Planai
+Kol kas žaidime yra tik pagrindinės funkcijos, bet planuoju vėliau pridėti šiuos dalykus:#- Dinaminis ėjimų laikas#- Monetų sistema#- Lygiai ir patirtis#- ELP reitingas#- Tinkinimas (stiliai, avatarai)#- Bendravimas su jaustukais (diplomatijoje)
+ÇçĞğİıÖöŞşÜü
+Antiyoy Online basit bir online oyundur. Kurallar offline sürüme oldukça benzese de diplomasi tamamen farklıdır. Ayrıca, bu oyun Sean O'Connor'un Slay oyunundan esinlenilmiştir.# #E-mail: yiotro93@gmail.com #Reddit: /r/yiotro_games #Made by yiotro
+Heya! Bu bir gizli ekran.
+Bu oyun kullanıcı adınız olarak Google adınızı ve sizi tanımlamak için Google Login ID'nizi kullanır.
+Kabul ediyor musun?
+Kabul ediyorum
+Gizlilik sözleşmesi
+Oyun hakkında
+Savaş
+Antrenman
+Yükle
+Editör
+Kullanıcı seviyeleri
+Tekrarlar
+Hızlı maç
+Content
+Campaign
+Başla
+Seviye boyutu
+minik
+küçük
+orta
+büyük
+Rastgele
+Oyuncular
+Oyuncu
+insan
+Yapay Zeka
+Slay kuralları
+Diplomasi
+Large
+Easy
+Average
+Hard
+Expert
+Balancer
+Maç aranıyor
+Sunucu yanıt vermiyor
+Atıldı
+Sebep
+Güncelleme
+Senin sıran
+Yapay Zeka
+İzle
+Sunucu [time] içinde sıfırlanacak. # #Usually it means that new update is available.
+Sunucu kapatıldı
+Yetkilendiriliyor...
+Misafir
+Giriş yapılamadı
+Kullanıcı adı seç
+Are you sure that you want to be [name]? #You will be able to change your nickname later.
+Hesap oluşturuluyor
+Çıkış yap
+Çıkış yapıldı. Bir dahaki seferde faklı bir biçimde giriş yapabileceksin.
+Çık
+Zaman
+Ping
+çift giriş
+Moderatör
+Admin
+Normal oyuncu
+Maça dön
+Maça dönüş
+Şuanki maç sıfırlamadan sonra devam edecek.
+Eğer Google Play'den güncelleme yapamıyorsan, direkt Google Drive'dan indirebilirsin.
+Rakip aranıyor
+Maç iptal oldu
+Rivals found
+Offline mode enabled
+Check renaming
+Renaming
+New nickname
+Rename to
+Rename request sent
+Recent match finished
+Ratings
+Moderatör paneli
+Şuan çevrimiçi
+Arşiv
+Yeni seviyeler
+Doğrulanmamış
+Seviyeyi kontrol et
+Yönerge
+Oyuncular kendi seviyelerini sunucuya yükleyebilir ancak kaliteleri çeşitlilik gösterebilir. Ek olarak, seviyeler uygulama marketinin kurallarını ihlal edebilir ve oyunun yasaklanmasına sebep olabilir. Moderatörler bu tarz sorunları engellerler.# #The level must be rejected in such cases:#- The name of the level violates rules of the app store.#- There is something obviously negative in the level itself.#- The level is related to political events that took place less than 50 years ago.#- Obvious trash done in zero seconds with the left toe of the right foot.
+Kullanıcı seviyesi talep ediliyor
+Oluşturma süresi
+Reddet: '[levelName]'?
+Doğrula
+Günde bir seviye
+Kullanıcı seviyesi yükleniyor
+Kullanıcı seviyesi tamamlandı
+Tamamlanmadı
+Seviye derecelendirildi
+beğenmedim
+Gerçekten seviyeyi beğenmedin mi?
+Raporla
+Raporlar
+Raporu kontrol et
+Rapor gönderildi
+Kullanıcı seviyesi silinsin mi?
+Şu an moderatörsün
+Seviyeyi göndermek için önce kendin yen
+Maç
+Maç değişkenleri
+Diplomasisiz
+Diplomasili
+Normal kurallar
+Hazırlık
+Başlayacak
+Maç başlıyor...
+Özel maç
+Tur süresi
+Şifre
+Maç oluşturuluyor
+Maçlar
+Boş
+Maça katılınıyor
+At
+Özel harita
+Maçtan çık
+Geri al
+İki tur atlandı
+Tur otomatik olarak sonlandırıldı
+Maç yedeklendi, bu yüzden yapay zeka hamleleri geciktirecek ki oyuncuların dönecek zamanı olsun.
+Some parameters will be overwritten by the parameters of the chosen map
+Please finish current match
+Sunucuya bağlanılıyor...
+Bağlantı kuruldu
+Protokol kontrol ediliyor...
+Protokol gçerli
+Sunucu güncelleniyor
+İstemci sürümü güncel değil
+Sunucu bağlantısı koptu, oyun tekrar bağlanmaya çalışacak.
+Offline
+Takas
+Takas yap
+Şu anki takas oranı
+Yeterli para yok
+Satın alındı
+Aktive edildi
+Satın al
+Customization
+Fish
+Phrases
+Buy [item] for [price]?
+Hi
+Goodbye
+Thanks
+Check out my win rate
+Check out my play time
+My win rate
+My play time
+Funny ;)
+This battle will be epic!
+Well played
+Good luck
+Is this a bug?
+Let's build a farm to get even higher income.
+Good morning my friend
+Let's pretend it didn't happen
+Great weather outside
+The important thing is not to win but to take part
+Happy new year!
+I came, I saw, I lost
+Victory will be mine
+Tired of waiting
+There is no player better than me
+There is no player better than [nickname]
+Check my ELP
+Check my rank
+My ELP
+I am
+Everything was calculated to the smallest detail
+I know ;)
+Everyone start somewhere
+Thanks for the game
+Not so fast
+Skins
+AWW 2.0
+Jannes Peters
+Matveismi art
+Katuri
+ShroomArts
+sa
+dk
+sn
+Arkadaşlar
+Kayıt slotları
+Tekrar adı
+Gizli bilgi
+Devam
+Kayıt
+Ana lobi
+Tekrarla
+Tekrarla?
+İptal
+Evet
+Hayır
+Level
+Sonraki
+Seviye tamamlandı
+Seviye tamamlanmadı
+Tamam
+Kazanan
+Rakip maçı terk etti
+Rakibin afk
+Zaman doldu
+Seviye gönder
+Seviye ismi boş olmamalı
+Seviye gönderildi
+Tm
+Kar
+Turu bitir?
+Tutorial
+Basics
+Tactics
+Tuşa bas
+Tap
+Hi, let's go over the basics of the game.
+You rule the kingdom. Tap on it to select.
+You can expand your possessions by capturing new lands. Let me show.
+Each unit can only walk once per turn.
+By capturing the hex you have increased the profits of your kingdom. More hexes - more profit.
+This is profit
+Let's build a farm, this will increase the profit even more.
+These are the construction buttons
+The farm brings 4 coins per turn. Each new farm costs more than the previous one.
+We must defend our lands. Towers are well suited for this.
+Towers protect adjacent hexes from peasants and spearmen.
+Only a stronger unit can destroy a unit. The stronger the unit, the more expensive it is.
+This button undoes the last action.
+Let's finish our turn.
+You can collapse two units into one, stronger one. Let me show.
+You are now familiar with the basics of the game. Destroy the red kingdom to win.
+Let's talk about how to win.
+As you already know, the army consumes money. A strong army needs a strong economy.
+There is a large army near your borders. Let's cut it off from the main area.
+Cutting off the enemy's army from the main territory, we divided the enemy kingdom into two provinces.
+Each province has its own separate economy. The enemy army found itself in the province with no money and almost no income.
+Now, a couple of small tips. First, tap on any of your towers to see which lands are protected by buildings.
+Secondly, if you want to know the incomes of all kingdoms, then tap on a coin in the corner.
+Thirdly, with the help of a long press, you can quickly move large armies.
+And the last thing. If a tree grows on a hex, then such a hex does not give income.
+Let's figure out how diplomacy works in this game.
+First, you need to enter the diplomatic mode.
+In diplomatic mode, you can see relations with other kingdoms. Also, you can send letters.
+Let's write a letter to the yellow kingdom. To do this, you just need to tap on it.
+The letter consists of conditions. Let's offer friendship to the kingdom.
+Here you can configure the condition.
+Let's check the mail, suddenly they sent us a great offer.
+The arrow to the left of the condition shows who will be the beneficiary. The Pink Kingdom offers an alliance in exchange for their lands. Sounds good, you have to agree.
+You are now in an alliance with the pink kingdom. Moreover, within 7 turns, this alliance cannot be broken (This is called 'blocking').
+The essence of the alliance is simple: if one member of the alliance is at war with some state, then the other members of the alliance join this war.
+By the way, in diplomatic mode, color indicators are shown at the borders of states. They show the relationship between states.
+Now you are familiar with the basics of diplomacy :)
+Tarafsız
+Savaş
+Arkadaş
+Müttefik
+Mektup
+Alcı
+Gönder
+İlişki
+Kilitle (turns)
+Hedef
+Topraklar
+Toprakları seç
+Mektuplar
+Para
+Lands
+İlişki
+Gönderen
+Onayla
+Reddet
+Şartlar uygulanamaz
+Savaş ilan edildi
+Tarafsızlık ilan edildi
+Arkadaşlık ilan edildi
+Bildirim
+Smileys
+Yarat
+İçe aktar
+Dışa aktar
+Sil
+Kaldır
+Tekrar isimlendir
+Dışa aktarıldı
+Editör slotları
+Yeni seviye yarat
+Oluştur
+Seviyeyi temizle?
+Rastgele oluşum
+Toprak sıklığı
+Ağaç sıklığı
+Yumru değeri
+Döngü
+Tarafsız kuleler
+Tarafsız şehirler
+Mezarlar
+Para
+Başlat
+Seviye dışa aktarıldı
+Slot
+Bir seviyeyi sunucuya göndermeden önce yenmelisin, eğer buna hazırsan 'Sonraki' tuşuna bas.
+Seviye adı
+Human players
+Delete '[slot_name]'?
+Calendar
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+Uygulamayı tekrar başlat
+Dil
+Ses
+Tam ekran
+Ayarlar
+Grafikler
+düşük
+orta
+yüksek
+Diller
+Oto-kayıt
+Turu bitirecek misin?
+Yardım
+Sıfırla
+Emin misin?
+Su kaplaması
+Uzun bas
+Bu ayar koca koca orduları tek bir uzun basmayla hareket ettirmeni sağlar.
+Detaylı bilgi
+Bu ayar sayesinde kullanıcı seviyeleri sekmesinde daha fazla bilgi göreceksin.
+Tur bitirme uyarısı
+Turu otomatik bitir
+Eğer yapabileceğin bir eylem yoksa sıran otomatik olarak geçilecek
+Şebeke
+Saati yerelleştir
+Saatin nasıl görüntülendiğini etkiler
+Reconnection
+Game will automatically reconnect to a server and return to a current match when connection is lost
+İstatistikler
+Geçilen tur sayısı
+Kurallar
+Varsayılan
+Slay
+Üretilen birlik
+Birleştirilen birlik
+Ölen birlik
+Harcanan para
+Kesilen ağaçlar
+En yüksek kar
+İlk atak (turn)
+Özel teşekkürler
+Special thanks to: #
+Ah, bir şeyler ters gitti. # #If it's not difficult for you, then please make a screenshot and send it to my email: yiotro93@gmail.com
+
+Şimdi iOS'ta
+Beta sürümü
+Bu, oyunun betasıdır.# #Muhtemelen başlangıçta pek çok hata olacak. Zıplayan ağaç ya da ekranda uçan birlik görürsen şaşma:) Bu tarz hatalar için, bana mail atabilirsin (yiotro93@gmail.com).# #Ayrıca, beta süresince küçük bir online topluluğu olacak, rakip aramak için Discord'umuzu ziyaret et! (the link is in the subreddit /r/yiotro_games).
+Planlar
+Şimdiye kadar sadece basit özellikleri ekledim ama çıkışa kadar çoğu özelliği eklemeyi düşünüyorum:#- 24 saate kadar tur süresi#- Çevrimdışı mod#- Dinamik tur sistemi#- Coin sistemi#- Deneyim puanları ve Leveller#- Rütbe sistemi#- Özelleştirmeler (skinler, avatarşar)#- Emoticonlarla iletişim (diplomaside)#- Takvim modu
+ÄÖÜäöüß
+Antiyoy Online ist ein einfaches online Spiel. Die Regeln sind fast identisch mit der offline Version, nur die Diplomatie ist gänzlich anders. Außerdem wurde dieses Spiel inspiriert von Slay von Sean O'Connor.# #E-mail: yiotro93@gmail.com #Reddit: /r/yiotro_games #Made by yiotro
+Voila! Ein geheimer Bildschirm.
+Das Spiel nutzt den Google Nutzernamen als deinen Nicknamen und ebensfalls Google Login ID um dich zu identifizieren.
+Bist du einverstanden?
+Ich stimme zu
+Datenschutzbestimmungen
+über das Spiel
+Gefecht
+Training
+laden
+Editor
+User Level
+Replays
+schnelles Match
+Content
+Kampagne
+Start
+Level Größe
+winzig
+klein
+normal
+groß
+Zufall
+Spieler
+Spieler
+Mensch
+KI
+klassische Regeln
+Diplomatie
+riesig
+Einfach
+Durchschnitt
+Schwer
+Experte
+Angleichung
+Suche nach Match
+Server antwortet nicht
+gekickt
+Grund
+Update
+deine Runde
+KI
+zuschauen
+Neustart des Servers in [time]. # #Normalerweise bedeutet dies, dass ein neues Update verfügbar ist.
+Server wurde heruntergefahren
+Autorisierung...
+Gast
+Login fehlgeschlagen
+Nickname wählen
+Bist du sicher dass du [name] heißen möchtest? #Den Nicknamen kannst du später ändern.
+erstelle Account
+abmelden
+Erfolgreich abgemeldet. Das nächste Mal kannst du dich als Gast anmelden.
+beenden
+Zeit
+Ping
+doppelter Login
+Moderator
+Admin
+gewöhnlicher Spieler
+zum Spiel zurückkehren
+Rückkehr zum Spiel
+Das aktuelle Spiel wird nach dem Neustart wiederhergestellt.
+Falls das Update nicht bei Google Play verfügbar ist, kannst du es direkt von Google Drive herunterladen.
+Suche nach Rivalen
+Spiel abgebrochen
+Rivalen gefunden
+Offline Modus aktiviert
+prüfe Umbenennung
+Umbenennungen
+neuer Nickname
+umbenennen nach
+Umbenennungsanfrage gesendet
+letztes Match beendet
+Ranglisten
+Moderator Panel
+momentan online
+Archiv
+neue Level
+ungeprüfte
+Level überprüfen
+Anweisung
+Spieler können ihre Level an den Server einreichen, aber die Qualität dieser Level kann variieren. Außerdem können die Level gegen die Regeln des App Stores verstoßen, was zu einem Verbot des Spiels führen kann. Moderatoren helfen solche Probleme zu vermeiden.# #In diesen Fällen muss das Level abgelehnt werden:#- Der Name des Levels verstößt gegen die Regeln des App Stores.#- Das Level selbst hat offensichtlich etwas negatives an sich.#- Das Level bezieht sich auf politische Ereignisse die weniger als 50 Jahre zurückliegen.#- Offensichtlicher Schrott bei dem die linke Hand nicht wusste was die rechte tat.
+Abfrage User Level
+Erstellungszeit
+'[levelName]' ablehnen?
+überprüfen
+nur 1 Level pro Tag
+lade User Level
+User Level abgeschlossen
+nicht abgeschlossen
+Level bewertet
+gefällt mir nicht
+Gefällt dir das Level wirklich nicht?
+melden
+Meldungen
+Meldung prüfen
+Meldung senden
+User Level löschen?
+Du bist jetzt ein Moderator
+Bitte schließe das Level ab um es zu senden
+Match
+Match Parameter
+ohne Diplomatie
+mit Diplomatie
+normale Regeln
+Vorbereitung
+startet in
+Match beginnt...
+benutzerdefi. Match
+Rundendauer
+Passwort
+erstelle Match
+Matches
+leer
+Spiel beitreten
+kicken
+individuelle Karte
+Match verlassen
+zurück
+zwei Runden übersprungen
+Runde wurde automatisch beendet
+Das Spiel wurde wiederhergestellt, also wird die KI die Züge für einige Zeit verzögern, damit die Spieler Zeit haben, zurückzukehren.
+Einige Parameter werden durch die Parameter der gewählten Karte überschrieben.
+laufendes Match bitte beenden
+verbinden mit Server...
+Verbindung hergestellt
+überprüfe Protokoll...
+Protokoll ist gültig
+Server wird aktualisiert
+Client-Version ist veraltet
+Verbindung zum Server abgebrochen. Das Spiel wird versuchen die Verbindung wiederherzustellen.
+offline
+Handel
+eintauschen
+aktueller Wechselkurs
+nicht genügend Münzen
+gekauft
+aktiviert
+kaufen
+Anpassungen
+Fisch
+Phrasen
+[item] für [price] kaufen?
+Hi
+Tschüss
+Danke
+Sieh dir meine Siegesrate an
+Sieh dir meine Spielzeit an
+Meine Siegesrate
+Meine Spielzeit
+lustig ;)
+Dieses Battle wird episch!
+gut gespielt
+Viel Glück
+Ist das ein Bug?
+Lasst uns eine Farm bauen um noch mehr Einkommen zu erzielen.
+Guten Morgen mein Freund
+Tun wir so als ob es nicht passiert wäre
+schönes Wetter draußen
+Das wichtigste ist nicht zu gewinnen, sondern mitzumachen
+Frohes neues Jahr!
+Ich kam, ich sah, ich verlor
+Der Sieg wird mein sein
+müde vom warten
+Es gibt keinen besseren Spieler als mich
+Es gibt keinen besseren Spieler als [nickname]
+Sieh dir mein ELP an
+Sieh dir mein Rang an
+Mein ELP
+Ich bin
+Alles wurde bis ins kleinste Detail geplant
+Ich weiß ;)
+Jeder fängt irgendwo an
+Danke für das Spiel
+Nicht so schnell
+Skins
+AWW 2.0
+Jannes Peters
+Matveismi art
+Katuri
+ShroomArts
+h
+m
+s
+Freunde
+Speicherplätze
+Name anzeigen
+geheime Information
+fortfahren
+speichern
+Hauptlobby
+Neustart
+neu starten?
+abbrechen
+ja
+nein
+Level
+weiter
+Level abgeschlossen
+Level noch nicht abgeschlossen
+Okay
+Sieger
+Gegner hat das Spiel verlassen
+Gegner war afk
+Zeit ist um
+sende Level
+Levelname darf nicht leer sein
+Level erfolgreich gesendet
+Tutorial
+Grundlagen
+Taktiken
+Taste drücken
+tippen
+Hi, gehen wir die Grundlagen des Spiels durch.
+Du regierst das Königreich. Tippe darauf, um es auszuwählen.
+Du kannst deine Besitztümer durch die Eroberung neuer Länder erweitern. Lass es mich zeigen.
+Jede Einheit kann nur einmal pro Runde bewegt werden.
+Durch die Eroberung des Feldes hast du den Profit deines Königreichs gesteigert. Mehr Felder - mehr Profit.
+Das ist der Profit
+Lass uns eine Farm bauen, das wird den Profit noch mehr steigern.
+Dies sind die Konstruktionstasten
+Die Farm bringt 4 Münzen pro Runde. Jede neue Farm kostet mehr als die vorherige.
+Wir müssen unsere Ländflächen verteidigen. Türme sind dafür gut geeignet.
+Türme schützen angrenzende Felder vor Bauern und Speerträger.
+Nur eine stärkere Einheit kann eine Einheit zerstören. Je stärker die Einheit, desto mehr kostet sie.
+Diese Taste macht die letzte Aktion rückgängig.
+Lass uns unsere Runde beenden.
+Du kannst zwei Einheiten zu einer stärkeren Einheit vereinen. Lass es mich zeigen.
+Du bist nun mit den Grundlagen des Spiels vertraut. Zerstöre das rote Königreich.
+Lass uns darüber sprechen wie man gewinnt.
+Wie du bereits weißt, kostet die Armee Geld. Eine starke Armee benötigt eine starke Wirtschaft.
+In der Nähe deiner Grenze befindet sich eine große Armee. Trenne sie vom Hauptbereich ab.
+Durch die Trennung der Armee zum Hauptbereich, haben wir das Königreich des Gegners in zwei Provinzen zerteilt.
+Jede Provinz hat ihre eigene Wirtschaft. Die gegnerische Armee befand sich in der Provinz ohne Geld und fast ohne Einkommen.
+Nun noch ein paar kleine Tipps. Als erstes, tippe auf irgendeinen deiner Türme um zu sehen welche Landflächen durch Gebäude geschützt sind.
+Zweitens, wenn du das Einkommen aller Königreiche sehen möchtest, dann tippe auf die Münze in der Ecke.
+Drittens, durch langes drücken kannst du schnell große Armeen bewegen.
+Und noch etwas. Wenn ein Baum auf einem Feld wächst, wird solch ein Feld kein Einkommen erzeugen.
+Lass uns herausfinden wie die Diplomatie in diesem Spiel funktioniert.
+Als erstes musst du den Diplomatie Modus aktivieren.
+Im Diplomatie Modus kannst du die Beziehungen mit anderen Königreichen sehen. Ebenfalls kannst du Briefe versenden.
+Lass uns dem gelben Königreich einen Brief schreiben. Um das zu tun, brauchst du nur darauf tippen.
+Der Brief enthält alle Konditionen. Bieten wir dem Königreich unsere Freundschaft an.
+Hier kannst du die Konditionen festlegen.
+Lass uns die Post checken, plötzlich haben sie uns ein tolles Angebot geschickt.
+Der Pfeil links neben der Kondition zeigt an wer der Begünstigte sein wird. Das pinke Königreich bietet eine Allianz im Austausch seiner Landflächen an. Klingt gut, stimme dem zu.
+Du bist jetzt im Bündnis mit dem pinken Königreich. Außerdem kann dieses Bündnis innerhalb von 7 Runden nicht gebrochen werden. (Das wird 'sperren' genannt).
+Die Essenz der Allianz ist einfach: Wenn ein Mitglied der Allianz mit irgendeinem Land im Krieg ist, dann wird das andere Mitglied sich am Krieg beteiligen.
+Übrigens, im Diplomatie Modus werden Farb-Indikatoren an den Landesgrenzen angezeigt. Sie zeigen das Verhältnis zwischen Ländern an.
+Jetzt bist du mit den Diplomatie Grundlagen vertraut :)
+Ok
+Einkommen
+Runde beenden?
+Neutral
+Krieg
+Freund
+Allianz
+Brief
+Empfänger
+senden
+Verhältnis
+sperren (Runden)
+Ziel
+Landflächen
+wähle Landfläche
+Briefe
+Geld
+Landflächen
+Beziehung
+Absender
+zustimmen
+ablehnen
+Bedingungen sind unpraktikabel
+Krieg erklärt
+Neutralität erklärt
+Freundschaft erklärt
+Benachrichtigung
+Smileys
+erstellen
+Import
+Export
+löschen
+entfernen
+umbenennen
+exportiert
+Editor Slots
+erstelle neues Level
+generiere
+Level zurücksetzen?
+Zufallsgenerierung
+Landdichte
+Baumdichte
+Knotenpunkte Wert
+kreisförmig
+neutrale Türme
+neutrale Städte
+Grabsteine
+Geld
+Start
+Level exportiert
+Slot
+Bevor du ein Level zum Server sendest musst du es abschließen. Drücke 'weiter' wenn du jetzt bereit dafür bist.
+Levelname
+menschliche Spieler
+'[slot_name]' löschen?
+Kalender
+Januar
+Februar
+März
+April
+Mai
+Juni
+Juli
+August
+September
+Oktober
+November
+Dezember
+Bitte App neu starten
+Sprache
+Ton
+Vollbild
+Einstellungen
+Grafik
+niedrig
+medium
+hoch
+Sprachen
+automatisches speichern
+bestätige Rundenende
+Hilfe
+zurücksetzen
+Einstellungen wirklich zurücksetzen?
+Wasser-Textur
+langes drücken
+Diese Option erlaubt dir zügig große Armeeeinheiten durch langes drücken zu bewegen.
+detaillierte Information
+Mit dieser Option kannst du mehr Informationen in der Liste der User Level sehen.
+Signalton bei Rundenbeginn
+Runde automatisch beenden
+Die Runde wird automatisch beendet wenn es nichts mehr zu tun gibt.
+Raster
+Zeit lokalisieren
+beeinflusst die Anzeige der Zeit
+Wiederverbindung
+Wenn die Verbindung abbricht wird sich das Spiel automatisch wieder mit dem Server verbinden.
+Statistik
+getätigte Züge
+Regeln
+standard
+klassisch
+erstellte Einheiten
+vereinte Einheiten
+gestorbene Einheiten
+ausgegebenes Geld
+gefällte Bäume
+max. Profit
+erster Angriff (Runde)
+Besonderen Dank
+Besonderen Dank an: #
+Oh nein, etwas ist schief gelaufen. # #Wenn es dir nichts ausmacht, mache bitte einen Screenshot und schicke ihn an meine E-Mail: yiotro93@gmail.com
+
+Jetzt auf iOS verfügbar
+Beta Version
+Dies ist die Beta Version des Spiels.# #Sehr wahrscheinlich wird es am Anfang eine Menge Bugs geben. Springende Bäume und über den Bildschirm fliegende Einheiten sind möglich. Bitte sende alle auftretenden Bugs an meine Email Adresse (yiotro93@gmail.com).# #Wärend der Beta Tests werden wenige Spieler online sein. In dem Fall kannst du auf meinem Discord Server nach Gegner suchen.(Der Link ist im subreddit /r/yiotro_games).
+Pläne
+Bislang gibt es hier nur grundlegende Funktionen, aber ich plane in den nächsten Versionen folgendes hinzuzufügen:#- Rundenzeit bis zu 24 Stunden und die Möglichkeit Matches wieder beizutreten#- Offline Modus#- Individuelle Rundenzeit#- Münzsystem#- Erfahrungspunkte#- Spielniveau Einschätzung#- Anpassungen (Skins, Avatare)#- Kommunikation mit Emojis (in Diplomatie)#- Kalender Modus
+àèìòùéÈ
+Antiyoy Online è un semplice gioco online. Le regole sono quasi identiche alla versione offline, anche se la diplomazia è completamente diversa. Inoltre, questo gioco è stato ispirato da Slay di Sean O'Connor.# #E-mail: yiotro93@gmail.com #Reddit: /r/yiotro_games #Realizzato da yiotro
+Ecco! È una schermata segreta.
+Il gioco usa il tuo nome utente Google come soprannome e il login ID di Google per identificarti.
+Sei d'accordo?
+Sono d'accordo
+Informativa sulla privacy
+Riguardo al gioco
+Schermaglia
+Allenamento
+Carica
+Editor
+Livelli degli utenti
+Partite registrate
+Partita rapida
+Contenuti
+Campaign
+Vai
+Dimensione livello
+minuscolo
+piccolo
+normale
+grande
+casuale
+Giocatori
+Giocatore
+umano
+IA
+Regole classiche
+Diplomazia
+Large
+Easy
+Average
+Hard
+Expert
+Balancer
+Ricerca partita in corso
+Il server non risponde
+Espulso
+Motivo
+Aggiorna
+È il tuo turno
+IA
+Assisti da spettatore
+Riavvio server tra [time]. # #Di solito significa che un aggiornamento è disponibile.
+Il server è stato spento
+Autorizzazione...
+Ospite
+Login fallito
+Scegli un soprannome
+Are you sure that you want to be [name]? #You will be able to change your nickname later.
+Creazione account in corso
+Disconnetti
+Disconnesso con successo. La prossima volta potrai accedere diversamente.
+Esci
+Tempo di gioco
+Ping
+Accesso doppio
+Moderatore
+Amministratore
+Giocatore abituale
+Ritorna alla partita
+Ritorno alla partita
+La partita corrente sarà ripristinata dopo il riavvio.
+Se l'aggiornamento non è disponibile su Google Play, puoi scaricarlo direttamente da Google Drive.
+Ricerca avversari
+Partita annullata
+Avversari trovati
+Modalità offline abilitata
+Verifica cambio di nome
+Cambi di nome
+Nuovo soprannome
+Cambia nome in
+Richiesta di cambio nome inviata
+Recent match finished
+Ratings
+Pannello moderatore
+Attualmente online
+Archivio
+Nuovi livelli
+Non verificati
+Verifica livello
+Istruzioni
+I giocatori possono inviare i loro livelli al server, ma la loro qualità è variabile. Inoltre, i livelli possono violare le regole dell'app store, portando potenzialmente a un ban dell'app. I moderatori aiutano a evitare questi problemi.# #I livelli devono essere rifiutati in casi come i seguenti:#- Il nome del livello viola le regole dell'app store.#- Il livello stesso ha una evidente connotazione negativa.#- Il livello fa riferimento a eventi politici che si sono verificati meno di 50 anni fa.#- Evidente immondizia prodotta in zero secondi con l'alluce sinistro del piede destro.
+Richiesta livello utente in corso
+Tempo di creazione
+Rifiutare '[levelName]'?
+Verifica
+Limite di un livello al giorno
+Caricamento livello utente
+Livello utente completato
+Non completato
+Livello valutato
+Non mi piace
+Davvero non ti piace il livello?
+Segnala
+Segnalazioni
+Verifica segnalazione
+Segnalazione inviata
+Cancellare il livello utente?
+Ora sei un moderatore
+Per favore supera il livello prima di inviarlo
+Partita
+Parametri partita
+Senza diplomazia
+Con diplomazia
+Regole normali
+Preparazione
+Inizio tra
+Inizio partita...
+Partita personalizzata
+Durata turno
+Password
+Creazione partita in corso
+Partite
+Vuoto
+Ingresso nella partita in corso
+Espelli
+Mappa personalizzata
+Abbandona la partita
+Annulla
+Saltati due turni
+Turno terminato automaticamente
+La partita è stata ripristinata. L'IA rallenterà le mosse per un po' di tempo per permettere ai giocatori di rientrare.
+Alcuni parametri saranno sovrascritti da quelli della mappa scelta
+Please finish current match
+Connessione al server in corso...
+Connessione stabilita
+Verifica protocollo in corso...
+Il protocollo è valido
+Il server si sta aggiornando
+La versione del client è obsoleta
+Connessione al server persa, tentativo di riconnessione
+Offline
+Scambio
+Scambia
+Tasso di cambio corrente
+Monete non sufficienti
+Acquistato
+Attivato
+Compra
+Customization
+Fish
+Phrases
+Buy [item] for [price]?
+Hi
+Goodbye
+Thanks
+Check out my win rate
+Check out my play time
+My win rate
+My play time
+Funny ;)
+This battle will be epic!
+Well played
+Good luck
+Is this a bug?
+Let's build a farm to get even higher income.
+Good morning my friend
+Let's pretend it didn't happen
+Great weather outside
+The important thing is not to win but to take part
+Happy new year!
+I came, I saw, I lost
+Victory will be mine
+Tired of waiting
+There is no player better than me
+There is no player better than [nickname]
+Check my ELP
+Check my rank
+My ELP
+I am
+Everything was calculated to the smallest detail
+I know ;)
+Everyone start somewhere
+Thanks for the game
+Not so fast
+Skins
+AWW 2.0
+Jannes Peters
+Matveismi art
+Katuri
+ShroomArts
+h
+m
+s
+Amici
+Slot di salvataggio
+Nome replay
+Informazioni segrete
+Riprendi
+Salva
+Menù principale
+Riavvia
+Riavviare?
+Annulla
+Sì
+No
+Level
+Avanti
+Livello completato
+Livello non completato
+Va bene
+Vincitore
+L'avversario ha abbandonato la partita
+L'avversario era AFK
+Tempo scaduto
+Invia livello
+Il nome del livello non può essere vuoto
+Livello inviato con successo
+Ok
+Entrate
+Terminare il turno?
+Tutorial
+Basics
+Tactics
+Premi il pulsante
+Tap
+Hi, let's go over the basics of the game.
+You rule the kingdom. Tap on it to select.
+You can expand your possessions by capturing new lands. Let me show.
+Each unit can only walk once per turn.
+By capturing the hex you have increased the profits of your kingdom. More hexes - more profit.
+This is profit
+Let's build a farm, this will increase the profit even more.
+These are the construction buttons
+The farm brings 4 coins per turn. Each new farm costs more than the previous one.
+We must defend our lands. Towers are well suited for this.
+Towers protect adjacent hexes from peasants and spearmen.
+Only a stronger unit can destroy a unit. The stronger the unit, the more expensive it is.
+This button undoes the last action.
+Let's finish our turn.
+You can collapse two units into one, stronger one. Let me show.
+You are now familiar with the basics of the game. Destroy the red kingdom to win.
+Let's talk about how to win.
+As you already know, the army consumes money. A strong army needs a strong economy.
+There is a large army near your borders. Let's cut it off from the main area.
+Cutting off the enemy's army from the main territory, we divided the enemy kingdom into two provinces.
+Each province has its own separate economy. The enemy army found itself in the province with no money and almost no income.
+Now, a couple of small tips. First, tap on any of your towers to see which lands are protected by buildings.
+Secondly, if you want to know the incomes of all kingdoms, then tap on a coin in the corner.
+Thirdly, with the help of a long press, you can quickly move large armies.
+And the last thing. If a tree grows on a hex, then such a hex does not give income.
+Let's figure out how diplomacy works in this game.
+First, you need to enter the diplomatic mode.
+In diplomatic mode, you can see relations with other kingdoms. Also, you can send letters.
+Let's write a letter to the yellow kingdom. To do this, you just need to tap on it.
+The letter consists of conditions. Let's offer friendship to the kingdom.
+Here you can configure the condition.
+Let's check the mail, suddenly they sent us a great offer.
+The arrow to the left of the condition shows who will be the beneficiary. The Pink Kingdom offers an alliance in exchange for their lands. Sounds good, you have to agree.
+You are now in an alliance with the pink kingdom. Moreover, within 7 turns, this alliance cannot be broken (This is called 'lock').
+The essence of the alliance is simple: if one member of the alliance is at war with some state, then the other members of the alliance join this war.
+By the way, in diplomatic mode, color indicators are shown at the borders of states. They show the relationship between states.
+Now you are familiar with the basics of diplomacy :)
+Neutrale
+Nemico
+Amico
+Alleanza
+Lettera
+Destinatario
+Invia
+Relazione
+Blocca relazione (turni)
+Bersaglio
+Terre
+Scegli terre
+Lettere
+Invia denaro
+Cedi terre
+Cambia relazione
+Mittente
+Accetta
+Rifiuta
+Le condizioni sono irrealizzabili
+Guerra dichiarata
+Neutralità dichiarata
+Alleanza dichiarata
+Notifica
+Smileys
+Crea
+Importa
+Esporta
+Cancella
+Rimuovi
+Rinomina
+Esportato
+Slot dell'editor
+Crea nuovo livello
+Genera
+Cancellare il livello?
+Generazione casuale
+Densità di terre
+Densità di alberi
+Valori nodi
+Loop
+Torri neutrali
+Città neutrali
+Sepolcri
+Denaro
+Avvia
+Livello esportato
+Slot
+Prima di inviare un livello al server, devi completarlo. Premi 'avanti' se il livello è già pronto.
+Nome livello
+Human players
+Delete '[slot_name]'?
+Calendario
+Gennaio
+Febbraio
+Marzo
+Aprile
+Maggio
+Giugno
+Luglio
+Agosto
+Settembre
+Ottobre
+Novembre
+Dicembre
+Per favore riavvia l'app
+Lingua
+Audio
+Schermo intero
+Impostazioni
+Grafica
+bassa
+media
+alta
+Lingue
+Salvataggio automatico
+Conferma la fine del turno
+Aiuto
+Reimposta
+Vuoi davvero reimpostare le impostazioni?
+Sfondo dell'acqua
+Tocco lungo
+Questa opzione ti consente di spostare grandi eserciti con un tocco lungo
+Informazioni dettagliate
+Con questa opzione attiva vedrai più informazioni nella lista dei livelli degli utenti
+Avvisa dell'inizio del turno
+Termina turno automaticamente
+Il turno sarà terminato automaticamente se non puoi fare più nulla
+Griglia
+Localizza gli orari
+Influenza come gli orari sono visualizzati
+Riconnessione automatica
+Il gioco si riconnetterà automaticamente al server e tornerà alla partita in corso in caso di perdita di connessione
+Statistiche
+Turni giocati
+Regole
+normali
+classiche
+Unità posizionate
+Unità fuse
+Unità morte
+Denaro speso
+Alberi abbattuti
+Entrate massime raggiunte
+Turno del primo attacco
+Ringraziamenti speciali
+Ringraziamenti speciali a: #
+Oh no, qualcosa è andato storto. # #Se per te non è un problema, per favore cattura uno screenshot e invialo alla mia email: yiotro93@gmail.com
+
+Ora disponibile su iOS
+Versione beta
+Questa è una versione beta del gioco.# #Con ogni probabilità ci saranno tanti bug all'inizio. Alberi saltellanti e unità che volano per lo schermo sono possibili. Per qualsiasi bug, per favore contattami per email (yiotro93@gmail.com).# #Inoltre, durante il beta testing ci saranno pochi giocatori online, quindi cerca avversari nel mio server Discord (link nel subreddit /r/yiotro_games).
+Progetti
+Per ora, ci sono solo semplici funzionalità, ma ho intenzione di aggiungere alla versione di release:#- Durata dei turni fino a 24 ore e possibilità di rientrare nelle partite#- Modalità offline#- Durata turno dinamica#- Sistema di valuta in-game (monete)#- Livelli ed esperienza#- ELO rating#- Personalizzazione (skin, avatar)#- Comunicazione attraverso emoji in diplomazia#- Modalità calendario
+àâæçèéêëîôœüû
+Antiyoy Online est un jeu en ligne simple. Les règles sont pratiquement identiques à celles de la version hors ligne, quoique la diplomacie est entièrement différente. Aussi, ce jeu s'inspire de Slay par Sean O'Connor.# #E-mail: yiotro93@gmail.com #Reddit: /r/yiotro_games #Créé par yiotro
+Voila! C'est un écran secret.
+Ce jeu utilise votre identifiant google comme votre pseudonyme ainsi que comme ID pour vous connecter.
+Acceptez-vous?
+J'accepte
+Politique de confidentialité
+A propos
+Confrontation
+Entraînement
+Charger
+Editeur
+Niveaux d'utilisateurs
+Enregistrements
+Match rapide
+Contenu
+Campaign
+Commencer
+Taille du niveau
+minuscule
+petit
+normal
+grand
+Aléatoire
+Joueurs
+Joueur
+humain
+IA
+Règles classiques
+Diplomacie
+Très grand
+Easy
+Average
+Hard
+Expert
+Balancer
+Recherche match en cours
+Serveur non responsif
+Retiré du jeu
+Raison
+Mettre à jour
+Votre tour
+IA
+Observer
+Redémarrage serveur dans [time]. # #Signifie habituellement qu'une nouvelle mise à jour est disponible.
+Le serveur a été éteint
+Autorisation...
+Invité
+Tentative de connection infructueuse
+Choisir pseudonyme
+Are you sure that you want to be [name]? #You will be able to change your nickname later.
+Creation du compte
+Déconnexion
+Déconnecté avec succès. La prochaine fois vous pourrez vous connecter différemment.
+Quitter
+Heure
+Ping
+Connection double
+Moderateur
+Admin
+Joueur normal
+Retourner au match
+Retour au match
+Le match en cours sera restauré après redémmarage.
+Si la mise à jour n'est pas disponible via Google Play, vous pouvez la télécharger directement depuis Google Drive.
+Recherche d'opposants
+Match annulé
+Oposants trouvés
+Mode hors ligne activé
+Jettez un œil à 'changements de pseudonyme'
+Changements de pseudonyme
+Nouveau pseudonyme
+Changer pseudonyme pour
+Requête de changement de pseudonyme envoyée
+Recent match finished
+Ratings
+Panneau modérateur
+En ligne en ce moment
+Archive
+Nouveaux niveaux
+Non vérifiés
+Vérifier niveau
+Instruction
+Les joueurs peuvent soumettre leurs niveaux au serveur, mais la qualité de ces niveaux peut varier. De plus, certains niveaux peuvent violer les règles de l'app store, ce qui peut conduire à ce que le jeu soit retiré. Les modérateurs aident à combattre de tels problèmes.# #Le niveau peut être rejeté dans les cas suivants:#- Le nom du niveau enfreint les règles de l'app store.#- Il y a quelque-chose d'évidemment négatif dans le niveau-même.#- Le niveau est lié à des évènements politiques ayant pris place il y a moins de 50 ans.#- Contenu de piètre qualité fait en un rien de temps sans lever le petit doigt.
+Requête niveau utilisateur
+Heure et date de création
+Rejeter '[levelName]'?
+Verifier
+Un niveau par jour
+Chargement niveau utilisateur
+Niveau utilisateur fini
+Non fini
+Niveau évalué
+Je n'aime pas
+n'aimez-vous vraiment pas ce niveau?
+Reporter
+Tickets
+Vérifier ticket
+Ticket envoyé
+Supprimer ce niveau utilisateur?
+Vous êtes à présent un modérateur
+Veuillez battre le niveau avant de l'envoyer
+Match
+Paramêtres du match
+Sans diplomacie
+Avec diplomacie
+Règles normales
+Préparation
+Commence dans
+Match commence...
+Match customisé
+Durée de tour
+Mot-de-passe
+Création du match
+Matchs
+Vide
+Inscription au match
+Supprimer
+Choisir carte
+Sortir du match
+Retour
+Deux tours passés
+Votre tour s'est fini automatiquement
+Le match a été restauré, alors l'IA retardera ses actions afin que les joueursaient le temps de revenir.
+Certains paramêtres seront ignorés dû à la carte choisie
+Please finish current match
+Connection au serveur...
+Connection établie
+Vérification du protocole...
+Protocole valide
+Mise à jour serveur
+Client non à jour
+Connection au serveur perdue, tentative de reconnection
+Déconnecté
+Echange
+Echanger
+Taux d'échange actuel
+Pas assez de pièces
+Acheté
+Activé
+Acheter
+Customization
+Fish
+Phrases
+Buy [item] for [price]?
+Hi
+Goodbye
+Thanks
+Check out my win rate
+Check out my play time
+My win rate
+My play time
+Funny ;)
+This battle will be epic!
+Well played
+Good luck
+Is this a bug?
+Let's build a farm to get even higher income.
+Good morning my friend
+Let's pretend it didn't happen
+Great weather outside
+The important thing is not to win but to take part
+Happy new year!
+I came, I saw, I lost
+Victory will be mine
+Tired of waiting
+There is no player better than me
+There is no player better than [nickname]
+Check my ELP
+Check my rank
+My ELP
+I am
+Everything was calculated to the smallest detail
+I know ;)
+Everyone start somewhere
+Thanks for the game
+Not so fast
+Skins
+AWW 2.0
+Jannes Peters
+Matveismi art
+Katuri
+ShroomArts
+h
+'
+''
+Amis
+Sauvegardes
+Nom de l'enregistrement
+Information secrète
+Continuer
+Sauvegarder
+Menu principal
+Recommencer
+Recommencer?
+Avorter action
+Oui
+Non
+Level
+Suivant
+Niveau terminé
+Niveau non terminé
+OK
+Gagnant
+Votre opposant a quitté le match
+Votre opposant ne jouait pas
+Temps écoulé
+Envoyer niveau
+Le niveau doit être nommé
+Niveau envoyé
+OK
+Revenu
+Finir tour?
+Tutoriel
+Bases
+Tactiques
+Appuyez sur le boutton
+Tappez
+onjour, apprenons les bases de ce jeu.
+Vous contrôllez le Royaume. Tappez-le pour le sélectionner.
+Vous pouvez étendre vos possessions en capturant de nouvelles terres. Laissez-moi vous montrer.
+Chaque unité ne peut se déplacer qu'une fois par tour.
+En capturant cet hexagone vous avez accrût les profits de votre Royaume. Plus de terres - plus de profits.
+voici vos profits
+Construisons une ferme, cela augmentera encore nos profits.
+Voici les bouttons de construction
+Une ferme produit 4 pièces par tour.
+Nous devons défendre nos terres. Les tours sont bien adaptées pour cela.
+les tours protègent les hexagones adjacents des paysans comme des lanciers.
+Seule une unité plus puissante peut détruire une autre unité. La plus puissante l'unité, la plus chère elle est.
+Ce boutton supprimme notre dernière action.
+finissons notre tour.
+Vous pouvez combiner deux unités pour en créer une plus forte. Laissez-moi vous montrer.
+Vous êtes à présent familiarisé avec les bases du jeu. Détruisez le Royaume rouge pour gagner.
+Parlons de comment gagner.
+Comme vous le savez, l'armée consomme de l'argent. Une armée puissante demande une économie comparable.
+Il y a une grande armée a vos frontières. Séparons-la de sa métropole.
+En séparant l'armée de sa métropole, nous avons divisé le Royaume ennemi en deux provinces.
+Chaque province a sa propre économie indépendente. L'armée ennemie s'est retrouvée dans la province sans trésor et presque sans revenu.
+Maintenant, qulques conseils. D'abord, tappez n'importe quelle tour afin de savoir quels terres sont protégées par des bâtiments.
+Ensuite, si vous voulez connaître les revenus de chaque Royaume, tappez la pièce au coin.
+De plus, vous pouvez déplacer de grandes armées d'un bloc en maintenant appuyé.
+Enfin, si un arbre pousse sur un hexagone, ce dernier ne produira pas d'argent.
+Tâchons de comprendre comment la diplomacie fonctionne dans ce jeu.
+D'abord, nous devons entrer en mode diplomatique.
+en mode diplomatique, vous pouvez voir les relations avec les autres Royaumes. De plus, nous pouvons écrire des lettres.
+Ecrivons une lettre au Royame jaune. pour ce faire, il suffit de tapper dessus.
+La lettre consiste en une liste de conditions. Offrons notre amitié à ce Royaume.
+Nous pouvons configurer nos conditions ici.
+Vérifions le courrier, on nous a envoyé une offre généreuse.
+La flèche à gauche de la condition indique le bénéficiaire. Le Royaume rose propose une alliance en échange de leurs terres. Allèchant, il faut en convenir.
+Vous êtes à présent allié au Royaume rose. Qui plus est, durant 7 tours, cette alliance ne peut être rompue (Cela s'appelle 'verouillage').
+L'essence d'une alliance est simple: si un membre de l'alliance entre en guerre, les autres le rejoignent.
+D'ailleurs, en mode diplomatique, des indicateurs colorés arborent les frontières des Royaumes. Elles montre l'état de leurs relations.
+Vous êtes maintenant familiarisés avec les bases de la diplomacie :)
+Neutral
+Guerre
+Amis
+Alliance
+Lettre
+Destinataire
+Envoyer
+Relation
+Verrouiller (tours)
+Cible
+Terres
+Choisir terres
+Lettres
+Argent
+Terres
+Relation
+Destinateur
+Accepter
+Décliner
+Les conditions ne peuvent être remplies
+Déclaration de guerre
+Déclaration de neutralité
+Déclaration d'amitié
+Notification
+Smileys
+Créer
+Importer
+Exporter
+Supprimer
+Supprimer
+Renommer
+Exporté
+Sauvegardes éditeur
+Créer un nouveau niveau
+Générer
+Effacer le niveau?
+Génération aléatoire
+Densité de terres
+Densité d'arbres
+Valeur des nœuds
+Itérer
+Tours neutres
+Cités neutres
+Tombes
+Argent
+Lancer
+Niveau exporté
+Emplacement de sauvegarde
+Avant d'envoyer un niveau au server, vous devez le finir. Appuyez sur 'suivant' si vous êtes prêt.
+Nom du niveau
+Joueurs humains
+Delete '[slot_name]'?
+Calendrier
+Janvier
+Février
+Mars
+Avril
+Mai
+Juin
+Juillet
+Août
+Septembre
+Octobre
+Novembre
+Décembre
+Veuillez redémarrer l'app
+Langue
+Son
+Plein écran
+Paramètres
+Graphiques
+bas
+medium
+haut
+Langues
+Sauvegarde automatique
+Confirmation fin de tour
+Aide
+remettre à défaut
+Vraiment remettre les paramètres à défaut?
+Texture d'eau
+Pression longue
+Cette option vous permet de déplacer rapidement vos armées d'une pression longue
+Information détaillée
+Avec cette option, vous aurez accès à de plus amples informations surles niveaux utilisateurs
+Alerter du début d'un tour
+Terminer automatiquement le tour
+Vos tours seront terminés automatiquement si vous n'avez plus rien à faire
+Grille
+Heure locale
+Affecte comment l'heure est affichée
+Reconnection
+Le jeu tentera automatiquement de se reconnecter au serveur et de rejoindre le match en cours en cas d'échec de la connection
+Statistiques
+Tours joués
+Règles
+défaut
+classiques
+Unités produites
+Unités combinées
+Unités perdues
+Argent dépensé
+Arbres abattus
+Profit maximal
+Première attaque (tour)
+Remerciements
+Grand merci à: #
+Oh non, quelque chose s'est produit. # #Si possible, veuillez s'il-vous-plaît effectuer une capture d'écran et l'envoyer à mon email: yiotro93@gmail.com
+
+Maintenant disponible pour iOS
+Version bêta
+Ceci est une version bêta du jeu.# #il y aura probablement de nombreux bogues au début. Il se peut que des arbres sautent ou que des unités s'envolent à travers l'écran. Pour tout bogue, veuillez m'envoyer un email (yiotro93@gmail.com).# #Aussi, durant le test bêta, il n'y aura qu'une communauté en ligne réduite, donc cherchez des opposants sur mon serveur Discord (le lien est sur le subreddit /r/yiotro_games).
+Plans
+Jusqu'à présent, il n'y a ici que des fonctionalités basiques, mais je compte ajouter les fonctionalités suivantes à la version finale:#- Temps de tour jusqu'à 24 heures et possibilité de revenir dans un match#- Mode hors ligne#- Temps de tour dynamique#- Système monétaire#- Niveaux et expérience#- Classement ELP#- Customisation (skins, avatars)#- Communication avec émoticones (en diplomacie)#- Mode calendrier
+ïëéó
+Antiyoy Online is een eenvoudig online spel. De regels zijn bijna identiek aan de offline versie, alleen diplomatie is volledig anders. Dit spel is geïnspireerd door Slay van Sean O'Connor.# #E-mail: yiotro93@gmail.com #Reddit: /r/yiotro_games #Gemaakt door yiotro
+Tadaa! Een geheim scherm.
+Het spel gebruikt jouw google gebruikersnaam als spelernaam en je google login ID om je te identificeren.
+Akkoord?
+Ik ga akkoord
+Privacybeleid
+Over het spel
+Oefenen
+Oefenen
+Laden
+Editor
+Gebruikerlevels
+Herhalingen
+Snel spel
+Extra
+Campagne
+Start
+Level grootte
+extra klein
+klein
+normaal
+groot
+Willekeurig
+Spelers
+Speler
+mens
+AI
+Klassieke regels
+Diplomatie
+extra groot
+Eenvoudig
+Normaal
+Moeilijk
+Expert
+Gebalanceerd
+Op zoek naar een spel
+Server reageert niet
+Uit het spel geschopt
+Reden
+Update
+Jouw beurt
+AI
+Meekijken
+De server wordt opnieuw gestart over [time]. # #Dit houdt meestal in dat er een nieuwe update beschikbaar is.
+Server is uitgeschakeld
+Authorisatie...
+Gast
+Inloggen mislukt
+Kies je spelernaam
+Weet je zeker dat je als [name] wilt spelen? #Je kunt jouw naam later nog veranderen.
+Account wordt aangemaakt
+Uitloggen
+Succesvol uitgelogd. Volgende keer heb je de mogelijkheid om als iemand anders in te loggen.
+Sluiten
+Tijd
+Ping
+Dubbele login
+Moderator
+Admin
+Normale speler
+Keer terug naar spel
+Keer terug naar spel
+Huidige spel kun je na herstarten weer verder spelen.
+Indien de update niet beschikbaar is op Google Play kun je deze rechtstreeks van Google Drive downloaden.
+Op zoek naar tegenstanders
+Spel geannuleerd
+Tegenstanders gevonden
+Offline modus ingeschakeld
+Controleer naamswijziging
+Naam wijzigen
+Nieuwe spelernaam
+Naam wijzigen naar
+Verzoek voor naamswijziging is verstuurd
+Recent spel
+Statistieken
+Moderator paneel
+Momenteel online
+Archief
+Nieuwe levels
+Nog niet gecontroleerd
+Controleer level
+Instructies
+Spelers kunnen zijn of haar eigen level naar de server uploaden, de kwaliteit kan echter verschillen. Ook is het mogelijk dat levels de regels van de app store schenden wat kan leiden tot een ban van het spel. Moderators kunnen helpen om dit soort problemen te voorkomen.# #Het level moet wordt geweigerd in de volgende situaties:#- De naam van het level schendt de regels van de app store.#- Er zit iets duidelijk negatiefs in de level zelf.#- De level verwijst naar een politiek voorval dat het plaatsgevonden in de afgelopen 50 jaar.#- Overduidelijk rommel zonder aandacht gemaakt met de linkerteen van de rechtervoet.
+Requesting user level
+Aanmaak tijd
+'[levelName]' weigeren?
+Controleren
+Eén level per dag
+Gebruikerlevel wordt geladen
+Gebruikerlevel voltooid
+Niet voltooid
+Level beoordeeld
+Niet leuk
+Vind je dit level echt niet leuk?
+Rapporteren
+Reden
+Controleer melding
+Melding verzonden
+Gebruikerlevel verwijderen?
+Je bent nu een moderator
+Je moet het level winnen om deze op te kunnen sturen
+Spel
+Spel instellingen
+Zonder diplomatie
+Met diplomatie
+Standaard regels
+Voorbereiding
+Start over
+Het spel begint...
+Eigen spel
+Beurtduur
+Wachtwoord
+Spel wordt aangemaakt
+Spellen
+Leeg
+Spel wordt geladen
+Schoppen
+Eigen kaart
+Verlaat spel
+Ongedaan maken
+Twee beurten overgeslagen
+Je beurt is automatisch beëindigd
+Spel is hersteld. De AI zal de acties uitstellen zodat andere spelers tijd hebben om opnieuw aan het spel deel te nemen.
+Sommige instellingen zullen worden overschreven door de instellingen van de kaart
+Rond eerst je huidige spel af
+Verbinding maken met server...
+Verbinding gemaakt.
+Controleer het protocol...
+Protocol is geldig.
+Server wordt bijgewerkt.
+Client versie is te oud.
+Verbinding met de server is verbroken, het spel zal proberen opnieuw verbinding te maken
+Offline
+Beurs
+Wisselen
+Huidige wisselkoers
+Onvoldoende munten
+Aangeschaft
+Geactiveerd
+Kopen
+Aanpassingen
+Vissen
+Phrases
+[item] kopen voor [price]?
+Hoi
+Doei
+Bedankt
+Bekijk mijn win ratio
+Bekijk mijn speeltijd
+Mijn win ratio
+Mijn speeltijd
+Leuk ;)
+Dit gevecht wordt episch!
+Goed gespeeld
+Succes
+Is dit een bug?
+Laten we een boerderij bouwen voor meer inkomen.
+Goedemorgen vriend
+Laten we doen alsof het nooit gebeurd is
+Lekker weertje
+Meedoen is belangrijker dan winnen
+Gelukkig nieuwjaar!
+Ik kwam, ik zag, ik verloor
+Ik zal winnen
+Ik ben het wachten beu
+Niemand is beter dan ik
+Niemand is beter dan [nickname]
+Bekijk mijn ELP
+Bekijk mijn positie
+Mijn ELP
+Ik ben
+Alles is tot in het kleinste detail uitgedacht
+Weet ik ;)
+Iedereen moet ergens beginnen
+Bedankt voor dit potje
+Niet zo snel
+Uiterlijk
+AWW 2.0
+Jannes Peters
+Matveismi art
+Katuri
+ShroomArts
+u
+m
+s
+Vrienden
+Bewaarlocaties
+Herhaling naam
+Informatie is geheim
+Terug naar spel
+Opslaan
+Hoofdmenu
+Begin opnieuw
+Opnieuw beginnen?
+Annuleren
+Ja
+Nee
+Level
+Volgende
+Level voltooid
+Level niet voltooid
+Oké
+Winnaar
+Tegenstander heeft het spel verlaten
+Tegenstander was afk
+Tijd is op
+Verstuur level
+Level moet een naam hebben
+Level succesvol opgestuurd
+Oké
+Inkomen
+Beurt beëindigen?
+Uitleg
+Basis
+Strategie
+Druk op knop
+Tik
+Hoi, laten we beginnen met de basis van het spel.
+Jij heerst over dit koninkrijk. Tik er op om 'm te selecteren.
+Je kunt jouw eigendommen uitbreiden door nieuw land te veroveren. Kom, ik laat het je zien hoe het moet.
+Elke van jouw eenheden kan per beurt één keer lopen.
+Door een vakje (land) te veroveren vergroot je de inkomsten van jouw koninkrijk. Meer land = meer inkomsten.
+Dit is je inkomen
+Laten we een boerderij bouwen, daardoor wordt je inkomen nóg groter.
+Dit zijn je bouwknoppen
+Een boerderij geeft je 4 munten per beurt. Elke nieuwe boerderij kost meer dan de vorige.
+We moeten ons land verdedigen! Daar kun je torens voor gebruiken.
+Torens beschermen aangrenzend land tegen boeren en speerwerpers.
+Alleen een sterkere eenheid kan een eenheid doden. Sterkere eenheden zijn wel duurder.
+Deze knop maak de laatste actie ongedaan.
+Dit was je eerste beurt, laten naar de volgende gaan.
+Je kunt twee eenheden samenvoegen tot één sterkere. Ik zal het je laten zien.
+Je kent nu alle basisvaardigheden van het spel. Vernietig het rode koninkrijk om het spel te winnen.
+Laten we het er eens over hebben hoe je kunt winnen.
+Zoals je inmiddels weet kost een leger geld. Een sterk leger vereist een sterke economie.
+Dicht bij de grens staat een groot leger. Laten we die eens afzonderen.
+Door een vijandig leger af te zonderen splitsen wij het vijandige koninkrijk op in twee provincies.
+Elke provincie heeft haar eigen economie. Het vijandige leger kwam daardoor in een provincie zonder geld en weinig inkomen terecht.
+Welnu, een paar kleine tips. De eerste: selecteer van een van je torens en zie welke landerijen bescherming krijgen van gebouwen.
+Tweede: je kunt het inkomen van alle koninkrijken bekijken door op het muntje in de hoek te tikken.
+Derde: door lang op een stuk land te drukken laat je alle eenheden in die richting lopen.
+En de laatste tip: als er een boom op je land groeit, heb je geen inkomen van dat stuk land.
+Laten we eens gaan kijken hoe de diplomatie in het spel werkt.
+Activeer allereerst de diplomatie-modus.
+In de diplomatie-modus kun je jouw relatie met andere koninkrijken bekijken. Je kunt daar ook brieven versturen.
+Laten we een brief schrijven naar het gele koninkrijk. Je hoeft enkel het koninkrijk aan te tikken.
+De brief bestaat uit voorwaarden. Laten we vriendschap voorstellen.
+Hier kun je de voorwaarden instellen.
+Bekijk je brievenbus eens, we hebben een mooi aanbod ontvangen.
+De pijl aan de linkerkant van de voorwaarde toont de begustigde ervan. Het roze koninkrijk biedt een alliantie aan in ruil voor land. Klinkt goed, daar moet je wel mee akkoord gaan.
+Je hebt nu een alliantie met het roze koninkrijk. Sterker nog, de komende 7 beurten kan deze niet worden verbroken (hij is vastgezet).
+De essentie van een alliantie is eenvoudig: indien een lid van de alliantie in een oorlog betrokken raakt, sluiten andere leden van de alliantie aan bij die oorlog.
+Overigens, in de diplomatie-modus kun je aan de kleur van de grenzen zien hoe de relatie tussen de gebieden is.
+Nu ben je bekend met de basisprincipes van diplomatie :)
+Neutraal
+Oorlog
+Vriend
+Alliantie
+Brief
+Ontvanger
+Versturen
+Relatie
+Vastzetten (beurten)
+Bestemming
+Landgoed
+Selecteer vakken
+Brieven
+Geld
+Landgoed
+Relatie
+Afzender
+Akkoord
+Afwijzen
+Voorwaarden zijn niet realistisch
+Oorlog verklaard
+Neutraliteit afgekondigd
+Vriendschap geuit
+Melding
+Smileys
+Maken
+Importeren
+Exporteren
+Verwijderen
+Verwijderen
+Naam wijzigen
+Geëxporteerd
+Mijn levels
+Nieuw level maken
+Genereren
+Level leegmaken?
+Automatisch genereren
+Landerijen (dichtheid)
+Bomen (dichtheid)
+Nodes waarde
+Loop
+Neutrale torens
+Neutrale steden
+Graven
+Geld
+Spelen
+Level geëxporteerd
+Slot
+Je moet het level winnen om deze op te kunnen sturen. Druk op 'volgende' indien je zover bent.
+Level naam
+Menselijke spelers
+'[slot_name]' verwijderen?
+Kalender
+Januari
+Februari
+Maart
+April
+Mei
+Juni
+Juli
+Augustus
+September
+Oktober
+November
+December
+Gelieve app herstarten
+Taal
+Geluid
+Volledig scherm
+Instellingen
+Beeld
+laag
+middel
+hoog
+Talen
+Automatisch opslaan
+Einde beurt bevestigen
+Help
+Reset
+Alle instellingen resetten?
+Water tonen
+Lang drukken
+Deze optie geeft je de mogelijkheid om grote legers te verplaatsen met één lange druk
+Gedetailleerde informatie
+Deze optie zal meer informatie tonen in de lijst met gebruikerlevels
+Meldt het begin van de beurt
+Beurt automatisch beëndigen
+De beurt zal automatisch worden beëindigd zodra er niets meer kan worden gedaan
+Grid
+Lokale tijden
+Beïnvloedt de tijdsweergave
+Opnieuw verbinden
+Het spel zal automatisch opnieuw verbinding maken met de server als de verbinding verbroken wordt
+Statistieken
+Beurten
+Regels
+standaard
+klassiek
+Eenheden gemaakt
+Eenheden samengevoegd
+Eenheden overleden
+Uitgegeven geld
+Gekapte bomen
+Hoogste inkomsten
+Eerste aanval (beurt)
+Waardering
+Waardering gaat uit naar: #
+Oei, er ging iets fout. # #Als het jou niet teveel moeite kost zou het fijn zijn als je een screenshot maakt en deze per e-mail verstuurt naar: yiotro93@gmail.com
+
+Nu beschikbaar op iOS
+Beta versie
+Dit is een beta versie van het spel.# #De kans is groot dat er in het begin problemen zullen kunnen optreden. Dansende bomen en eenheden die over het scherm vliegen zijn niet uitgesloten. Loop je tegen problemen aan, stuur mij gerust een - engelstalige - e-mail (yiotro93@gmail.com).# #Aanvullend, tijdens de beta versie zijn er mogelijk maar weinig tegenstanders online. Zoek ze gerust op op mijn discord server (de link vind je in de subreddit /r/yiotro_games).
+Plannen
+Tot nu toe zitten er slechts een aantal basisfunctionaliteiten in het spel, maar ik heb plannen om het volgende toe te voegen:#- Tijd instellen op 24 uur en mogelijkheid bieden opnieuw te verbinden met een lopend spel#- Offline modus#- Dynamische beurtduur#- Geldsysteem#- Levels and ervaring#- ELP rating#- Aanpassingen als thema's en profielfoto's#- Communiceren met emoticons (in diplomatie modus)#- Kalender modus
+
+Antiyoy　Onlineとは単純なオンラインゲームです。オフラインバージョンとほぼ一緒ですが、外交のやり方はほとんど変わっている。またこのゲームはSean O'Connorさん作られたSlayというのゲームの引っ掛けました。# #メール: yiotro93@gmail.com #Reddit: /r/yiotro_games #Made by yiotro
+Voila! It's a secret screen.
+The game uses google username as your nickname and also google login ID to identify you.
+賛成しますか？
+I agree
+Privacy policy
+About game
+Skirmish
+Training
+Load
+Editor
+User levels
+Replays
+Quick match
+Content
+Campaign
+Start
+Level size
+tiny
+small
+normal
+big
+Random
+Players
+Player
+human
+AI
+Classic rules
+Diplomacy
+Large
+Easy
+Average
+Hard
+Expert
+Balancer
+Searching for match
+Server is silent
+Kicked
+Reason
+Update
+Your turn
+AI
+Spectate
+Restarting server in [time]. # #Usually it means that new update is available.
+Server was shut down
+Authorization...
+Guest
+Failed to login
+Choose nickname
+Are you sure that you want to be [name]? #You will be able to change your nickname later.
+Creating account
+Sign out
+Successfully signed out. Next time you will be able to sign in differently.
+Quit
+Time
+Ping
+Double login
+Moderator
+Admin
+Usual player
+Return to match
+Return to match
+Current match will be restored after restart.
+If the update is not available on Google Play, you can download it directly from Google Drive.
+Searching for rivals
+Match cancelled
+Rivals found
+Offline mode enabled
+Check renaming
+Renaming
+New nickname
+Rename to
+Rename request sent
+Recent match finished
+Ratings
+Moderator panel
+Current online
+Archive
+Fresh levels
+Unverified
+Check level
+Instruction
+Players can submit their levels to the server, but the quality of these levels may vary. In addition, levels can violate the rules of the app store, which can lead to a ban of the game. Moderators help avoid such problems.# #The level must be rejected in such cases:#- The name of the level violates rules of the app store.#- There is something obviously negative in the level itself.#- The level is related to political events that took place less than 50 years ago.#- Obvious trash done in zero seconds with the left toe of the right foot.
+Requesting user level
+Creation time
+Decline '[levelName]'?
+Verify
+One level per day
+Loading user level
+User level completed
+Not completed
+Level rated
+Don't like
+Really don't like the level?
+Report
+Reports
+Check report
+Report sent
+Delete user level?
+You are now a moderator
+Please beat the level to send it
+Match
+Match parameters
+Without diplomacy
+With diplomacy
+Normal rules
+Preparation
+Starting in
+Match starting...
+Custom match
+Turn duration
+Password
+Creating match
+Matches
+Empty
+Joining match
+Kick
+Custom map
+Exit match
+Undo
+Skipped two turns
+Turn was ended automatically
+Match has been restored, so the AI will delay moves for some time so that the players have time to return.
+Some parameters will be overwritten by the parameters of the chosen map
+Please finish current match
+Connecting to server...
+Connection established
+Checking protocol...
+Protocol is valid
+Server is updating
+Client version is out of date
+Connection to server is lost, the game will try to reconnect
+Offline
+Exchange
+Exchange
+Current exchange rate
+Not enough coins
+Purchased
+Activated
+Buy
+Customization
+Fish
+Phrases
+Buy [item] for [price]?
+Hi
+Goodbye
+Thanks
+Check out my win rate
+Check out my play time
+My win rate
+My play time
+Funny ;)
+This battle will be epic!
+Well played
+Good luck
+Is this a bug?
+Let's build a farm to get even higher income.
+Good morning my friend
+Let's pretend it didn't happen
+Great weather outside
+The important thing is not to win but to take part
+Happy new year!
+I came, I saw, I lost
+Victory will be mine
+Tired of waiting
+There is no player better than me
+There is no player better than [nickname]
+Check my ELP
+Check my rank
+My ELP
+I am
+Everything was calculated to the smallest detail
+I know ;)
+Everyone start somewhere
+Thanks for the game
+Not so fast
+Skins
+AWW 2.0
+Jannes Peters
+Matveismi art
+Katuri
+ShroomArts
+h
+m
+s
+Friends
+Save slots
+Replay name
+Secret information
+Continue
+Save
+Main lobby
+Restart
+Restart?
+Cancel
+Yes
+No
+Level
+Next
+Level complete
+Level not complete
+Okay
+Winner
+Opponent left the match
+Opponent was afk
+Time is up
+Send level
+Level name must not be empty
+Level successfully sent
+Ok
+Income
+End turn?
+Tutorial
+Basics
+Tactics
+Press button
+Tap
+Hi, let's go over the basics of the game.
+You rule the kingdom. Tap on it to select.
+You can expand your possessions by capturing new lands. Let me show.
+Each unit can only walk once per turn.
+By capturing the hex you have increased the profits of your kingdom. More hexes - more profit.
+This is profit
+Let's build a farm, this will increase the profit even more.
+These are the construction buttons
+The farm brings 4 coins per turn. Each new farm costs more than the previous one.
+We must defend our lands. Towers are well suited for this.
+Towers protect adjacent hexes from peasants and spearmen.
+Only a stronger unit can destroy a unit. The stronger the unit, the more expensive it is.
+This button undoes the last action.
+Let's finish our turn.
+You can collapse two units into one, stronger one. Let me show.
+You are now familiar with the basics of the game. Destroy the red kingdom to win.
+Let's talk about how to win.
+As you already know, the army consumes money. A strong army needs a strong economy.
+There is a large army near your borders. Let's cut it off from the main area.
+Cutting off the enemy's army from the main territory, we divided the enemy kingdom into two provinces.
+Each province has its own separate economy. The enemy army found itself in the province with no money and almost no income.
+Now, a couple of small tips. First, tap on any of your towers to see which lands are protected by buildings.
+Secondly, if you want to know the incomes of all kingdoms, then tap on a coin in the corner.
+Thirdly, with the help of a long press, you can quickly move large armies.
+And the last thing. If a tree grows on a hex, then such a hex does not give income.
+Let's figure out how diplomacy works in this game.
+First, you need to enter the diplomatic mode.
+In diplomatic mode, you can see relations with other kingdoms. Also, you can send letters.
+Let's write a letter to the yellow kingdom. To do this, you just need to tap on it.
+The letter consists of conditions. Let's offer friendship to the kingdom.
+Here you can configure the condition.
+Let's check the mail, suddenly they sent us a great offer.
+The arrow to the left of the condition shows who will be the beneficiary. The Pink Kingdom offers an alliance in exchange for their lands. Sounds good, you have to agree.
+You are now in an alliance with the pink kingdom. Moreover, within 7 turns, this alliance cannot be broken (This is called 'lock').
+The essence of the alliance is simple: if one member of the alliance is at war with some state, then the other members of the alliance join this war.
+By the way, in diplomatic mode, color indicators are shown at the borders of states. They show the relationship between states.
+Now you are familiar with the basics of diplomacy :)
+Neutral
+War
+Friend
+Alliance
+Letter
+Recipient
+Send
+Relationship
+Lock (turns)
+Target
+Lands
+Choose lands
+Letters
+Money
+Lands
+Relation
+Sender
+Agree
+Decline
+Conditions are impracticable
+War declared
+Neutrality declared
+Friendship declared
+Notification
+Smileys
+Create
+Import
+Export
+Delete
+Remove
+Rename
+Exported
+Editor slots
+Create new level
+Generate
+Clear level?
+Random generation
+Lands density
+Trees density
+Nodes value
+Loop
+Neutral towers
+Neutral cities
+Graves
+Money
+Launch
+Level exported
+Slot
+Before sending a level to the server, you must complete it. Press 'next' if you're ready to do it now.
+Level name
+Human players
+Delete '[slot_name]'?
+Calendar
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+Please restart app
+Language
+Sound
+Full screen
+Settings
+Graphics
+low
+medium
+high
+Languages
+Autosave
+Confirm to end turn
+Help
+Reset
+Really reset settings?
+Water texture
+Long tap
+This option allows you to quickly move large armies with a long press
+Detailed information
+With this option, you will see more information in the list of user levels
+Alert about start of a turn
+End turn automatically
+Turn will be ended automatically if there is nothing more to do
+Grid
+Localize time
+Affects how time is displayed
+Reconnection
+Game will automatically reconnect to a server and return to a current match when connection is lost
+Statistics
+Turns made
+Rules
+default
+classic
+Units built
+Units merged
+Units died
+Money spent
+Trees felled
+Max profit
+First attack (turn)
+Special thanks
+Special thanks to: #
+Oh no, something went wrong. # #If it's not difficult for you, then please make a screenshot and send it to my email: yiotro93@gmail.com
+
+Now available on iOS
+Beta version
+This is a beta version of the game.# #Most likely there will be a lot of bugs in the beginning. Jumping trees and units flying across the screen are possible. For all bugs, please email me (yiotro93@gmail.com).# #Also, during beta testing, there will be a small online, so look for opponents in my discord server (the link is in the subreddit /r/yiotro_games).
+Plans
+So far, there are only basic features here, but I plan to add the following to the release:#- Turn time up to 24 hours and the ability to re-enter the match#- Offline mode#- Dynamic turn time#- Coin system#- Levels and experience#- ELP rating#- Customization (skins, avatars)#- Communication with emoticons (in diplomacy)#- Calendar mode

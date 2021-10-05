@@ -2,4 +2,5 @@
 
 pip install fonttools
 assetPath='../android/assets/'
-pyftsubset ${assetPath}NotoSansJP-Black.ttf --output-file=${assetPath}jp_subset.ttf --text-file=${assetPath}text2include.txt --notdef-outline
+xmlstarlet sel -t -v "languages/language/string/@value" ${assetPath}languages.xml > text2include.txt
+pyftsubset ./NotoSansJP-Black.ttf --output-file=${assetPath}jp_subset.ttf --text-file=./text2include.txt --notdef-outline
